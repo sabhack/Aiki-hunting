@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** ROS 2, C++, Python, AMR/AGV & mobile robotics, control systems (IT2-FLC, PID, FOC/BLDC, VESC), SLAM & sensor fusion, FMCW radar / ToF / OAK-D perception, digital twin & simulation (Gazebo/RViz2/URDF), SIL/HIL testing, CAN bus, embedded Linux, SolidWorks/CAD, intralogistics robotics
+**Moderate match areas:** MATLAB/Simulink, motion/path planning & navigation, industrial automation (Automatisierungstechnik), JavaScript/web & HMI/AR (older), German-language work environments (B2→C1)
+**Weak match areas:** large-scale production/MLOps, deep-learning model training as a primary focus, pure PLC/SPS factory automation, formal people-management/lead experience, safety-certification (ISO 26262/Functional Safety) ownership
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** autonomous mobile robotics R&D (AMR control, perception, validation), mechatronics lab/research, control-system development, embedded C++ on Linux, teaching/mentoring engineering
+**Moderate:** industrial automation, robotic-arm manipulation, simulation/test engineering, web/HMI/AR software (earlier career)
+**Entry-level (limited paid experience):** full-time industry robotics engineer (currently student/intern; strong project depth but first industry role), production deployment at scale, team leadership
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -62,20 +62,21 @@ Does this role advance career goals and contain tasks that energize?
 | 40-59 | Decent job but doesn't build toward career goals |
 | 0-39 | Dead end or backwards step |
 
+<!-- DRAFT inferred from profile — confirm/adjust these three (not stated on CV). -->
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Land a first industry **robotics / mechatronics engineer** role in Germany/DACH (AMR/AGV, controls, perception, or robotics software), transitioning from research into product engineering.
+- Build toward a specialist in **autonomous mobile robotics for intralogistics/warehouse automation**, deepening ROS 2, controls, and sensor-fusion expertise.
+- Grow German to C1 and integrate long-term into the German robotics industry.
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: hands-on robot bring-up, control/algorithm development, perception & sensor fusion, simulation-to-hardware validation, solving hard real-world robotics problems
+- Tasks that drain: pure maintenance/support with no development, purely managerial work with no hands-on engineering, repetitive non-technical admin
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: early-career; DAAD-funded student until 05/2026 — values a stable first industry role, Werkstudent/Praktikum income meanwhile.
+- **Flexibility**: thesis until ~05/2026 → part-time/Werkstudent/thesis-linked now; full-time from mid-2026. Open to relocation within Germany/DACH; remote welcome.
+- **Professional development**: strong priority on technical growth, mentorship, and working with real robotic hardware + modern stacks.
 
 ### 6. Salary Benchmark (Optional)
 
@@ -129,7 +130,7 @@ Present the evaluation as:
 
 ### Company Research Checklist
 - [ ] Checked company website (mission, values, recent news)
-- [ ] Checked review sites (Glassdoor, Jobindex, etc.)
+- [ ] Checked review sites (Kununu, Glassdoor, etc.)
 - [ ] Checked LinkedIn for team size, recent hires, connections
 - [ ] Checked media for restructuring, growth, or workplace issues
 - [ ] Identified network contacts who may know the team/manager

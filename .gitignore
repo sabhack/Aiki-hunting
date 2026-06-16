@@ -65,5 +65,6 @@ job_search_tracker.csv
 # Upskill reports (personal output)
 upskill/*.md
 
-# Agent usage logs
-.agents/
+# Agent usage logs, but keep the job-board skill tools (.agents/skills/)
+.agents/*
+!.agents/skills/

@@ -10,44 +10,46 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+<!-- Drafted from CV (Path A). ⚠️ Verify/insert concrete numbers where marked before using. -->
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 1. Radar-Inertial AMR Slip Mitigation (flagship — problem-solving, controls, sensor fusion)
+**S:** Autonomous mobile robots in intralogistics lose tracking on slippery warehouse floors — wheel odometry reports motion the robot isn't actually making, causing trajectory drift.
+**T:** As the research lead on the "Sabby Robby" AMR (M.Eng. thesis), design a control architecture that holds trajectory under variable floor friction.
+**A:** Fused FMCW radar (SICK RMS2000) ground-velocity with magnetic-encoder odometry; built signal-conditioning (median filter N=5 + EMA β=0.85) for stable slip-ratio estimation independent of friction; implemented an Interval Type-2 Fuzzy Logic Controller in ROS 2 driving VESC 6 MK VI motor controllers over CAN for real-time torque correction; validated via a SolidWorks→URDF digital twin in Gazebo/RViz2 with SIL then HIL.
+**R:** Trajectory drift reduced under all tested slip conditions; slip-ratio estimation stable regardless of floor friction. *[Add specific % / error figures if available.]*
+**Use for:** "Walk me through a hard technical problem", "Describe a project end to end", "Tell me about sensor fusion / control work"
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 2. Digital Twin & SIL/HIL Validation (rigor, simulation, test engineering)
+**S:** Testing new control code directly on real robot hardware risks damage and gives slow, noisy feedback.
+**T:** Establish a validation pipeline so the control stack could be verified before touching hardware.
+**A:** Built a high-fidelity digital twin in SolidWorks, exported to URDF, and stood up the full control stack in Gazebo + RViz2; ran Software-in-the-Loop first, then Hardware-in-the-Loop, following a V-Model methodology.
+**R:** Caught issues in simulation before hardware runs and enabled confident, repeatable iteration on the controller. *[Add iteration-speed / defect-catch detail if available.]*
+**Use for:** "How do you ensure quality?", "Tell me about your testing approach", "Simulation vs. real hardware"
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 3. Teaching & Mentoring Engineering Students (communication, collaboration)
+**S:** Undergraduate mechatronics cohorts at AFIT needed practical instruction in automation, navigation, and embedded control.
+**T:** As Graduate Teaching Assistant, design and deliver labs and mentor students on real implementation.
+**A:** Built lab exercises on automation principles, mobile-robot navigation, and sensor integration; mentored students on control-systems implementation and embedded C++/Linux; supported research on autonomous navigation and multi-sensor fusion.
+**R:** Delivered hands-on labs across multiple cohorts over ~3.5 years and strengthened students' practical control/embedded skills.
+**Use for:** "Tell me about a time you explained something complex", "How do you work in a team / mentor others?"
 
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+<!-- Add a 4th (e.g. Sensotronica C++ latency-reduction / AR HMI) covering software-engineering depth. -->
 
 ## Common Tough Questions
 
-### "Why did you leave [previous company]?"
-> [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]
+<!-- Draft answers tailored to Muhammad's profile — refine in your own voice. -->
 
-### "You don't have [specific skill/experience]."
-> [PREPARE YOUR ANSWER - acknowledge the gap, bridge to adjacent experience, show willingness to learn]
+### "Why are you moving from research/academia into industry?" (or "why leave teaching?")
+> I love the engineering itself — taking a robotics problem from idea to validated hardware. My thesis gave me deep research rigor; now I want to apply that on real products with a team and see robots deployed, not just demonstrated. That's why I'm targeting an industry robotics role.
+
+### "You don't have full-time industry experience / [specific skill]."
+> True — my robotics depth comes from research and a custom-built AMR rather than a product team yet. But I've owned a full stack end to end (sensing → ROS 2 control → digital twin → SIL/HIL), I work in C++/Linux daily, and I pick up new tools fast (I taught them for years). On [specific gap], I'd point to the closest thing I've done and how quickly I ramped on it.
 
 ### "Where do you see yourself in 5 years?"
-> [PREPARE YOUR ANSWER - show ambition aligned with the role's growth path]
+> Established as a robotics/controls engineer specializing in autonomous mobile robots for intralogistics — owning real subsystems (perception, control, or motion), fluent in German, and ideally mentoring newer engineers the way I did as a TA.
 
 ### "What's your biggest weakness?"
-> [PREPARE YOUR ANSWER - genuine weakness with concrete mitigation strategy]
+> My German is B2 and improving toward C1 — I'm comfortable technically in English and in German-speaking teams, and I'm actively closing that gap. Also, most of my robotics work has been research-grade; I'm deliberately seeking an industry role to build production discipline (CI, code review at scale, deployment) on top of my engineering foundation.
 
 ### "Why this company specifically?"
 > Customize per company. Must reference: specific projects, company values, market position, or team structure. Never give a generic answer.

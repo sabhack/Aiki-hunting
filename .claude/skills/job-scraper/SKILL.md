@@ -1,26 +1,45 @@
 # Job Scraper
 
 **name:** job-scraper
-**description:** Scrapes Danish job sites for new positions matching your profile. Deduplicates across runs. Triggers on: job scrape, find jobs, search jobs, new jobs, job search, scrape jobs, /scrape
-**allowed-tools:** Read, Write, Edit, Glob, Grep, WebFetch, WebSearch, Agent, AskUserQuestion
+**description:** Scrapes German/DACH job boards (Arbeitnow, Stepstone, Xing) for new positions matching your profile. Deduplicates across runs. Triggers on: job scrape, find jobs, search jobs, new jobs, job search, scrape jobs, stellensuche, /scrape
+**allowed-tools:** Bash, Read, Write, Edit, Glob, Grep, WebFetch, WebSearch, Agent, AskUserQuestion
 
 ---
 
 ## How It Works
 
-This skill searches multiple Danish job sites using targeted queries based on your profile, deduplicates against previously seen jobs and the application tracker, and presents new matches with a quick fit assessment.
+This skill searches the German job market across three boards, deduplicates against
+previously seen jobs and the application tracker, and presents new matches with a quick
+fit assessment.
+
+The six board CLIs (under `.agents/skills/`) are the primary search mechanism. All emit
+the **same normalized JSON** and share an Apify driver (`_shared/jobs.ts`):
+
+| Board | CLI | Auth | Best for |
+|-------|-----|------|----------|
+| **Arbeitnow** | `arbeitnow-search` | none (free) | tech, startup, remote, English-speaking, visa-sponsorship roles |
+| **Stepstone** | `stepstone-search` | `APIFY_TOKEN` | broad coverage, all sectors/seniorities, Germany's largest board |
+| **Xing** | `xing-search` | `APIFY_TOKEN` | professional / management roles, DACH-wide |
+| **LinkedIn** | `linkedin-search` | `APIFY_TOKEN` | professional / tech / corporate roles (bills min 150 results/run) |
+| **Glassdoor** | `glassdoor-search` | `APIFY_TOKEN` | listings with company ratings + salary data |
+| **Indeed** | `indeed-search` | `APIFY_TOKEN` | broadest aggregator, deep German coverage (indeed.de), cheapest |
+
+**Always run Arbeitnow** (it's free). Run the Apify boards **only if `APIFY_TOKEN` is
+set** — otherwise note they were skipped and fall back to `WebSearch` for those boards.
+By default, don't run all five Apify boards every time: pick 2–3 most relevant to the
+focus (e.g. Stepstone+Indeed for broad German coverage, LinkedIn+Xing for professional
+roles, Glassdoor when pay/reputation matters). Run all on "broad".
+
+---
 
 ## Invocation
 
-The user triggers this skill by saying things like:
-- "Find new jobs"
-- "Scrape for jobs"
-- "Any new positions?"
-- "/scrape"
+The user triggers this skill by saying things like "Find new jobs", "Scrape for jobs",
+"Any new positions?", or "/scrape".
 
 Optional arguments:
-- A focus area, e.g. "/scrape data science" or "/scrape geophysics"
-- "broad" to run all search categories, e.g. "/scrape broad"
+- A focus area, e.g. "/scrape data science" or "/scrape product manager"
+- "broad" to widen queries and raise limits, e.g. "/scrape broad"
 
 ---
 
@@ -28,46 +47,79 @@ Optional arguments:
 
 ### Step 0: Load State
 
-1. Read `job_scraper/seen_jobs.json` (create if missing - start with `{"seen": {}}`)
+1. Read `job_scraper/seen_jobs.json` (create if missing — start with `{"seen": {}}`)
 2. Read `job_search_tracker.csv` to extract already-applied companies+roles
-3. Read `search-queries.md` (this directory) for the search strategy
+3. Read `search-queries.md` (this directory) for the queries, locations, and boards
+4. Check whether `APIFY_TOKEN` is set: `bash -c 'echo ${APIFY_TOKEN:+set}'`. If empty,
+   only Arbeitnow runs as a CLI; mark Stepstone/Xing as token-gated.
 
-### Step 1: Search
+### Step 1: Search via the board CLIs
 
-Run **WebSearch** queries from `search-queries.md`. By default, run the top 3 priority categories. If the user said "broad", run all categories.
+Run from the `.agents/` directory (so the `skills/...` paths resolve). Use the queries
+and location terms from `search-queries.md`. Run the top categories by default; with
+"broad", run all categories and raise `--limit`.
 
-If the user specified a focus area (e.g. "data science"), prioritize queries from that category.
+```bash
+# Arbeitnow (free) — always run
+bun run skills/arbeitnow-search/cli/src/cli.ts search --query "<role/skill>" --location "<city>" --limit 25 --format json
 
-For each search:
-- Use `WebSearch` with site-specific queries (jobindex.dk, linkedin.com/jobs, karriere.dk, etc.)
-- Target your configured geographic area
-- Look for postings from the last 14 days
+# Stepstone (needs APIFY_TOKEN)
+bun run skills/stepstone-search/cli/src/cli.ts search --query "<role/skill>" --location "<city-slug>" --posted 7 --limit 25 --format json
 
-### Step 2: Fetch & Parse
+# Xing (needs APIFY_TOKEN)
+bun run skills/xing-search/cli/src/cli.ts search --query "<role/skill>" --location "<city>" --discipline "<field>" --limit 20 --format json
 
-For each promising result from Step 1:
-- Use `WebFetch` to retrieve the job posting page
-- Extract: **job title**, **company**, **location**, **posting date** (or "recent"), **URL**, **key requirements** (brief), **application deadline** (if listed)
-- Skip if the URL or company+title combo already exists in `seen_jobs.json`
-- Skip if the company+role already appears in `job_search_tracker.csv`
+# LinkedIn (needs APIFY_TOKEN; bills min 150 results/run)
+bun run skills/linkedin-search/cli/src/cli.ts search --query "<role/skill>" --location "<city>, Germany" --posted 7 --limit 25 --format json
+
+# Glassdoor (needs APIFY_TOKEN; --location required; no detail command)
+bun run skills/glassdoor-search/cli/src/cli.ts search --query "<role/skill>" --location "<city>, Germany" --posted 14 --limit 25 --format json
+
+# Indeed (needs APIFY_TOKEN; defaults to country=DE)
+bun run skills/indeed-search/cli/src/cli.ts search --query "<role/skill>" --location "<city>" --posted 7 --limit 25 --format json
+```
+
+All three emit the **same JSON shape**: `{ jobs: [{ id, title, company, location, date,
+salary, remote, url, source, description }], meta: {...} }`. Errors go to **stderr** as
+`{ "error": "...", "code": "..." }` with exit code 1 — if a CLI errors (e.g. `NO_TOKEN`),
+note it and continue with the boards that worked.
+
+Run independent CLI calls in parallel where possible. For boards you can't reach via CLI
+(token unset), fall back to `WebSearch` with `site:stepstone.de`, `site:xing.com`,
+`site:de.linkedin.com/jobs`, `site:de.indeed.com`, or `site:glassdoor.de` queries.
+
+**Interactive shortcut:** in a session with the Apify MCP connected, you may instead call
+the actors directly (`call-actor` / `run-sync-get-dataset-items`) — same actor IDs as the
+CLIs (see each board's `url-reference.md`). The CLIs remain the portable, committed path.
+
+### Step 2: Merge, Filter & Parse
+
+- Merge the `jobs` arrays from all boards into one list (keep `source`).
+- Drop jobs whose `location` is outside the configured commute area (see
+  `search-queries.md` → Location Filter), unless `remote`.
+- Drop jobs older than 14 days when a `date` is present.
+- Skip any job whose `url`, or `company`+`title` combo, already exists in
+  `seen_jobs.json` or `job_search_tracker.csv`.
+- For a promising job that needs more detail, call the board's `detail` command.
 
 ### Step 3: Quick Fit Assessment
 
-For each new job, do a rapid fit check (NOT the full evaluation from `04-job-evaluation.md` - just a quick signal):
-
-- **High match**: Role directly involves your core skills
-- **Medium match**: Role is adjacent to your experience
-- **Low match**: Role requires significant skills you lack
+Rapid signal only (NOT the full `04-job-evaluation.md` pass):
+- **High** — role directly involves your core skills
+- **Medium** — adjacent to your experience
+- **Low** — requires significant skills you lack
 
 ### Step 4: Deduplicate & Store
 
-1. Add ALL fetched jobs (new and skipped) to `seen_jobs.json` with structure:
+Add ALL fetched jobs (new and skipped) to `seen_jobs.json`:
+
 ```json
 {
   "seen": {
     "<url_or_company_title_key>": {
       "title": "...",
       "company": "...",
+      "source": "arbeitnow|stepstone|xing",
       "url": "...",
       "first_seen": "YYYY-MM-DD",
       "fit": "high/medium/low",
@@ -76,7 +128,8 @@ For each new job, do a rapid fit check (NOT the full evaluation from `04-job-eva
   }
 }
 ```
-2. Only present jobs NOT already in the seen list or tracker.
+
+Only present jobs NOT already in the seen list or tracker.
 
 ### Step 5: Present Results
 
@@ -85,11 +138,11 @@ Present new jobs in a table sorted by fit (high first):
 ```
 ## New Job Matches - YYYY-MM-DD
 
-Found X new positions (Y high, Z medium, W low match).
+Found X new positions (Y high, Z medium, W low match) across N boards.
 
-| # | Fit | Title | Company | Location | Deadline | URL |
-|---|-----|-------|---------|----------|----------|-----|
-| 1 | High | ... | ... | ... | ... | [Link](...) |
+| # | Fit | Title | Company | Location | Source | Date | URL |
+|---|-----|-------|---------|----------|--------|------|-----|
+| 1 | High | ... | ... | ... | Arbeitnow | ... | [Link](...) |
 
 ### High-Match Highlights
 For each high-match job, add 2-3 bullet points:
@@ -98,22 +151,25 @@ For each high-match job, add 2-3 bullet points:
 - Any red flags
 ```
 
-After presenting, ask:
+Then ask:
 > "Want me to evaluate any of these in detail? Just give me the number(s)."
 
-If the user picks a number, invoke the **job-application-assistant** skill workflow (fit evaluation first, then CV + cover letter if approved).
+If the user picks a number, invoke the **job-application-assistant** skill workflow (fit
+evaluation first, then CV + cover letter if approved).
 
 ### Step 6: Update Tracker (Optional)
 
-If the user decides to apply to any job, add a row to `job_search_tracker.csv`.
+If the user decides to apply, add a row to `job_search_tracker.csv`.
 
 ---
 
 ## Important Rules
 
-1. **Never fabricate job postings.** Only present jobs found via actual WebSearch/WebFetch results.
-2. **Respect deduplication.** Always check seen_jobs.json AND job_search_tracker.csv before presenting.
-3. **Focus on configured geographic area.** Skip jobs that require relocation or are clearly outside commute range.
-4. **Only open positions.** Skip postings with expired deadlines or those marked as closed.
-5. **Be efficient with WebFetch.** Don't fetch every search result - use titles and snippets to pre-filter before fetching.
-6. **Parallel searches.** Use the Agent tool or parallel WebSearch calls to speed up the search phase.
+1. **Never fabricate job postings.** Only present jobs returned by the CLIs or actual
+   WebSearch/WebFetch results.
+2. **Respect deduplication.** Always check `seen_jobs.json` AND `job_search_tracker.csv`.
+3. **Focus on the configured area.** Skip jobs outside commute range unless remote.
+4. **Only open positions.** Skip expired/closed postings.
+5. **Prefer the free board.** Always run Arbeitnow; only spend Apify credits (Stepstone,
+   Xing) when `APIFY_TOKEN` is set and broader coverage is needed.
+6. **Parallelize.** Run the board CLIs concurrently to speed up the search phase.

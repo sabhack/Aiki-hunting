@@ -24,11 +24,25 @@ python --version
 
 ### Bun (for job search tools)
 
-The Danish job portal CLIs are written in TypeScript and run with Bun:
+The German job board CLIs (Arbeitnow, Stepstone, Xing) are written in TypeScript and run with Bun:
 
 ```bash
 curl -fsSL https://bun.sh/install | bash
 ```
+
+### Apify token (for Stepstone and Xing — optional)
+
+Arbeitnow uses a free public API and needs no credentials. Stepstone, Xing, LinkedIn,
+Glassdoor, and Indeed are anti-bot protected, so those CLIs go through
+[Apify](https://apify.com) actors and require an API token (pay-per-result, roughly
+$0.06–0.70 per 1,000 jobs depending on the board):
+
+```bash
+export APIFY_TOKEN="apify_api_..."   # from https://console.apify.com/account/integrations
+```
+
+Add the export to your shell profile (`~/.zshrc` / `~/.bashrc`) to persist it. Without a
+token, Stepstone and Xing are skipped and only Arbeitnow runs (plus a `WebSearch` fallback).
 
 ### LaTeX (for compiling CVs and cover letters)
 
@@ -51,10 +65,21 @@ Or manually: fork on GitHub, then clone your fork.
 
 ## 3. Install job search CLI dependencies
 
+The CLIs have no runtime dependencies (they use Bun's built-in `fetch`), but running
+`bun install` sets up the dev tooling (TypeScript types) for each:
+
 ```bash
-for tool in jobbank-search jobdanmark-search jobindex-search jobnet-search; do
+for tool in arbeitnow-search stepstone-search xing-search linkedin-search glassdoor-search indeed-search; do
   cd .agents/skills/$tool/cli && bun install && cd ../../../..
 done
+```
+
+Quick smoke test (Arbeitnow needs no token):
+
+```bash
+cd .agents
+bun run skills/arbeitnow-search/cli/src/cli.ts search --query python --remote --limit 5 --format table
+cd ..
 ```
 
 ## 4. Run the setup interview
@@ -121,7 +146,7 @@ This creates `salary_data.json` which the `/apply` workflow uses for salary benc
 Find a job posting you're interested in, then:
 
 ```
-/apply https://jobindex.dk/job/1234567
+/apply https://www.stepstone.de/stellenangebote--...html
 ```
 
 Or paste the job description directly:
@@ -155,7 +180,10 @@ cd cover_letters && xelatex cover_<company>_<role>.tex && cd ..
 This is expected if you haven't set up salary benchmarking. The `/apply` workflow skips this step automatically.
 
 ### Job search CLI tools not working
-Make sure Bun is installed and you ran `bun install` in each CLI directory. The tools require network access to fetch job listings.
+Make sure Bun is installed and you ran `bun install` in each CLI directory. The tools require network access to fetch job listings. Run CLIs from the `.agents/` directory so the `skills/...` paths resolve.
+
+### Stepstone/Xing return `{ "code": "NO_TOKEN" }`
+Those two boards go through Apify and need `APIFY_TOKEN` exported in your environment (see Prerequisites). Arbeitnow works without a token.
 
 ### LaTeX compilation errors
 - CV: uses `lualatex` (pdflatex often fails on modern MiKTeX with `fontawesome5` font-expansion errors; lualatex handles the same sources cleanly)

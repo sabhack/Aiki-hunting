@@ -105,12 +105,15 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+<!-- Populated from CV. Tailor the specifics per posting; keep the AMR thesis as the proof point. -->
+**For Robotics / AMR engineer roles:**
+> Mechatronics & Robotics engineer (M.Eng., DAAD scholar) specializing in autonomous mobile robots. Built and validated a radar-inertial control architecture for an AMR on slippery warehouse floors — from FMCW-radar/IMU sensing and ROS 2 control (Interval Type-2 Fuzzy Logic) to a SolidWorks→URDF digital twin and full SIL/HIL validation. Strong in C++/Python, control systems, sensor fusion, and end-to-end robot bring-up, looking to bring research-grade rigor to a production robotics team.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Controls / mechatronics / robotics-software roles:**
+> Robotics-focused mechatronics engineer with hands-on experience taking control systems from concept to validated hardware: IT2-FLC and PID control, FOC/BLDC motor control over CAN (VESC), real-time signal processing, and SLAM/sensor-fusion on ROS 2 (Ubuntu 24.04). Combines embedded C++/Linux depth with simulation (Gazebo/RViz2) and a V-Model SIL/HIL testing discipline.
+
+**For Werkstudent / Praktikum (working-student / internship) roles:**
+> M.Eng. Robotics & Automation student (graduating 05/2026, DAAD scholar) seeking a working-student/internship role in robotics. Active research on autonomous mobile robots (ROS 2, C++, sensor fusion, control) with a custom-built AMR platform; eager to apply and grow these skills in an industry robotics team.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

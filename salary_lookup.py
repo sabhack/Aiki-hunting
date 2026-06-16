@@ -12,7 +12,7 @@ instructions on the expected format and how to convert from Excel.
 
 Usage:
     python salary_lookup.py "Company Name"
-    python salary_lookup.py "Company Name" --city "København"
+    python salary_lookup.py "Company Name" --city "München"
     python salary_lookup.py "Company Name" --json
     python salary_lookup.py --list-all
 """
@@ -26,19 +26,20 @@ from pathlib import Path
 
 DATA_FILE = Path(__file__).parent / "salary_data.json"
 
-# Common Danish <-> anglicized spelling variants
+# Common German <-> anglicized spelling variants (umlauts + eszett)
 SPELLING_VARIANTS = {
-    "ø": "o", "æ": "ae", "å": "aa",
-    "ö": "o", "ä": "ae", "ü": "u",
+    "ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss",
 }
 
-# Legal suffixes and noise to strip when matching company names
+# Legal suffixes and noise to strip when matching company names.
+# Covers the common German legal forms (GmbH, AG, SE, KG, UG, ...).
 STRIP_PATTERNS = [
-    r"\ba/s\b", r"\baps\b", r"\bi/s\b", r"\bp/s\b", r"\bk/s\b",
-    r"\bivs\b", r"\bamba\b", r"\ba\.m\.b\.a\.\b",
-    r"\(vg\)", r"\(.*?\)",  # (VG) and other parentheticals
-    r"\bdanmark\b", r"\bdenmark\b", r"\bscandinavia\b", r"\bnordic\b",
-    r"\bgroup\b", r"\bholding\b",
+    r"\bgmbh\b", r"\bg?mbh\b", r"\bag\b", r"\bse\b", r"\bkg\b", r"\bkgaa\b",
+    r"\bgmbh\s*&\s*co\.?\s*kg\b", r"\bohg\b", r"\bgbr\b", r"\bug\b",
+    r"\bug\s*\(haftungsbeschr[äa]nkt\)\b", r"\bggmbh\b", r"\be\.?\s*v\.?\b",
+    r"\(vg\)", r"\(.*?\)",  # parentheticals
+    r"\bdeutschland\b", r"\bgermany\b", r"\bdach\b", r"\beuropa?\b",
+    r"\bgroup\b", r"\bgruppe\b", r"\bholding\b",
     r",\s*.*$",  # everything after comma (sub-entities)
 ]
 
@@ -62,15 +63,15 @@ def normalize(s):
     s = s.lower().strip()
     for pat in STRIP_PATTERNS:
         s = re.sub(pat, "", s)
-    s = re.sub(r"[^a-zæøåöäü0-9]", "", s)
+    s = re.sub(r"[^a-zäöüß0-9]", "", s)
     return s.strip()
 
 
 def anglicize(s):
-    """Convert Danish/Nordic characters to anglicized equivalents."""
+    """Convert German umlauts / eszett to anglicized equivalents."""
     s = s.lower()
-    for danish, english in SPELLING_VARIANTS.items():
-        s = s.replace(danish, english)
+    for german, english in SPELLING_VARIANTS.items():
+        s = s.replace(german, english)
     return s
 
 
@@ -79,7 +80,7 @@ def extract_core_words(s):
     s = s.lower()
     for pat in STRIP_PATTERNS:
         s = re.sub(pat, "", s)
-    words = re.findall(r"[a-zæøåöäü0-9]+", s)
+    words = re.findall(r"[a-zäöüß0-9]+", s)
     return [w for w in words if len(w) > 1]
 
 
@@ -261,7 +262,7 @@ def main():
         if args.city:
             print(f"  (filtered by city: {args.city})")
         print("\nTry a shorter or different name. Company names in the dataset")
-        print("may include legal suffixes like 'A/S' or 'ApS'.")
+        print("may include legal suffixes like 'GmbH' or 'AG'.")
         sys.exit(1)
 
     if args.json:

@@ -1,4 +1,4 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Muhammad Idris
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
@@ -16,65 +16,63 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Muhammad Idris
+- **Location:** Germany (open to relocation within Germany / DACH; remote welcome)
+- **Languages:** English (C1) · German (B2 → targeting C1) · Russian (B2)
+- **Status:** M.Eng. student (graduating 05/2026), Student Research Intern, DAAD scholar. Werkstudent/Praktikum/Masterarbeit now; full-time from mid-2026.
+- **LinkedIn headline:** "Robotics & Automation Engineer | AMR · ROS 2 · Control Systems · Sensor Fusion"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **M.Eng. in Mechatronics, Robotics & Automation Engineering** (2024-2026) - Hochschule Schmalkalden, Germany
+  - Thesis: "Radar-Inertial Robust Control for Autonomous Mobile Robots: Mitigating Trajectory Drift on Slippery Warehouse Floors"
+  - Topics: AMR control, radar-inertial sensor fusion, ROS 2, Interval Type-2 Fuzzy Logic control, SIL/HIL. DAAD scholarship holder.
+- **B.Eng. in Mechatronics, Robotics & Automation Engineering** (2013-2018) - Belarusian National Technical University (BNTU), Minsk
+  - Graduated with High Honors. Thesis: real-time hydrogen-generator monitoring dashboard (JavaScript / microservices).
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Student Research Intern — Mechatronics & Robotics Laboratory** (11/2024 - 05/2026) - **Hochschule Schmalkalden** (Schmalkalden, Germany)
+  - Built & validated a radar-inertial slip-mitigation architecture on a custom 2WD differential-drive AMR (FMCW radar + encoders); trajectory drift reduced under all tested slip conditions.
+  - Implemented an IT2-FLC in ROS 2 (Ubuntu 24.04) with VESC 6 MK VI motor control over CAN; built a SolidWorks→URDF digital twin validated in Gazebo/RViz2 via SIL/HIL.
+  - Real-time Doppler signal processing (median + EMA filters); ToF-based localization/mapping; ROS 2 robotic-arm manipulation.
+- **Graduate Teaching Assistant — Mechatronics Eng.** (10/2020 - 06/2024) - **AFIT Kaduna** (Kaduna, Nigeria)
+  - Designed labs on automation, mobile-robot navigation, sensor integration; mentored students on control systems & embedded C++/Linux; supported autonomous-navigation / multi-sensor-fusion research.
+- **Junior Software Engineer** (07/2016 - 02/2018) - **Sensotronica Ltd.** (Minsk, Belarus)
+  - Built web/AR operator interfaces for industrial monitoring; optimized C++/Linux software, reducing system response latency.
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** ROS 2, C++, Python, AMR/AGV & mobile robotics, control systems (IT2-FLC, PID, FOC/BLDC), SLAM & sensor fusion
+- **Secondary:** MATLAB/Simulink, motion planning/navigation, embedded Linux, CAN bus, signal processing, JavaScript (web/HMI)
+- **Domain:** Autonomous mobile robots for intralogistics / warehouse automation; mechatronics & automation engineering
+- **Software:** Gazebo, RViz2, URDF/XACRO, SolidWorks/CAD, Git, VESC, FMCW radar (SICK), ToF, Luxonis OAK-D; SIL/HIL, V-Model, digital twin
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- (None on CV — add MOOCs / professional certs if any.)
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- (None listed.)
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- **DAAD-Stipendium** - full Master's-study scholarship, Deutscher Akademischer Austauschdienst (2024-2026)
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- Inferred from CV (no formal assessment yet) — review/replace. See 02-behavioral-profile.md. -->
+- **End-to-end builder** - takes systems from CAD/digital-twin through embedded integration, control, and validation
+- **Methodical & rigorous** - V-Model, SIL/HIL, quantified validation before trusting hardware
+- **Strengths:** deep robotics/controls problem-solving, hands-on hardware bring-up, teaching/communicating technical concepts
+- **Growth areas:** first industry role (research/teaching background); German B2→C1
+- **Thrives in:** focused, hands-on technical work on real robotics problems with modern stacks and mentorship
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building autonomous mobile robots that work in the real world — control, perception, and bringing hardware to life
+- Solving hard engineering problems end-to-end (sensing → control → simulation → validated hardware)
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Robotics / intralogistics & warehouse automation: AMR/AGV makers, robotics startups, logistics-automation firms
+- Mechatronics & industrial automation: robotics R&D, controls, perception, and robotics-software teams (Germany/DACH)
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Roles requiring relocation outside Germany/DACH (unless fully remote)
+- Pure maintenance/support or purely managerial roles with no hands-on engineering
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

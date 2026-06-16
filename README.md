@@ -8,7 +8,7 @@ An AI-powered job application framework built on [Claude Code](https://claude.co
 
 ## What this is
 
-A structured workflow that turns Claude Code into a full-stack job application assistant. The core workflow (self-profiling, fit evaluation, and the drafter-reviewer application pipeline) is **language- and country-agnostic**. The job portal search skills are built for the Danish market (Jobindex, Jobnet, Akademikernes Jobbank, etc.), but the pattern is designed to be swapped for your local job boards.
+A structured workflow that turns Claude Code into a full-stack job application assistant. The core workflow (self-profiling, fit evaluation, and the drafter-reviewer application pipeline) is **language- and country-agnostic**. The job board search skills are built for the **German / DACH market** — **Arbeitnow** (free public API), **Stepstone**, and **Xing** (both via [Apify](https://apify.com) actors) — but the pattern is designed to be swapped for your local job boards.
 
 ```
 /setup          /scrape              /apply <url>
@@ -32,7 +32,8 @@ The framework encodes career guidance best practices, including structured evalu
 
 - [Claude Code](https://claude.com/claude-code) (CLI)
 - Python 3.10+
-- [Bun](https://bun.sh) (for Danish job search CLI tools)
+- [Bun](https://bun.sh) (for the German job board CLI tools)
+- An [Apify](https://apify.com) API token — **optional**, only for the Stepstone and Xing boards. Arbeitnow uses a free public API and needs no token.
 - LaTeX distribution with `lualatex` and `xelatex`: [TeX Live](https://tug.org/texlive/) or [MiKTeX](https://miktex.org/). The CV compiles with `lualatex` (pdflatex often fails on modern MiKTeX installs with `fontawesome5` font-expansion errors); the cover letter compiles with `xelatex` because `cover.cls` requires `fontspec`.
 
 ## Quick start
@@ -47,10 +48,15 @@ cd ai-job-search
 ### 2. Install job search tools
 
 ```bash
-cd .agents/skills/jobbank-search/cli && bun install && cd ../../../..
-cd .agents/skills/jobdanmark-search/cli && bun install && cd ../../../..
-cd .agents/skills/jobindex-search/cli && bun install && cd ../../../..
-cd .agents/skills/jobnet-search/cli && bun install && cd ../../../..
+for tool in arbeitnow-search stepstone-search xing-search linkedin-search glassdoor-search indeed-search; do
+  cd .agents/skills/$tool/cli && bun install && cd ../../../..
+done
+```
+
+Stepstone and Xing go through Apify and need a token (Arbeitnow does not):
+
+```bash
+export APIFY_TOKEN="apify_api_..."   # https://console.apify.com/account/integrations
 ```
 
 ### 3. Set up your profile
@@ -74,7 +80,7 @@ This searches multiple job portals for positions matching your profile, deduplic
 ### 5. Apply to a job
 
 ```bash
-/apply https://jobindex.dk/job/1234567
+/apply https://www.stepstone.de/stellenangebote--...html
 ```
 
 If the URL can't be fetched (some job portals block automated access), you can paste the job description directly instead:
@@ -118,11 +124,14 @@ ai-job-search/
 │   │   ├── job-scraper/               # Job search orchestration
 │   │   └── upskill/                   # /upskill skill gap analysis and learning plan
 │   └── settings.local.json            # Claude Code permissions
-├── .agents/skills/                    # Job portal CLI tools (Denmark)
-│   ├── jobbank-search/                # Akademikernes Jobbank
-│   ├── jobdanmark-search/             # Jobdanmark.dk
-│   ├── jobindex-search/               # Jobindex.dk
-│   └── jobnet-search/                 # Jobnet.dk (government portal)
+├── .agents/skills/                    # Job board CLI tools (Germany / DACH)
+│   ├── _shared/jobs.ts               # Shared JobCard, Apify driver, formatters
+│   ├── arbeitnow-search/             # Arbeitnow.com (free public API)
+│   ├── stepstone-search/             # Stepstone.de (via Apify actor)
+│   ├── xing-search/                  # Xing (via Apify actor)
+│   ├── linkedin-search/              # LinkedIn (via Apify actor)
+│   ├── glassdoor-search/             # Glassdoor (via Apify actor)
+│   └── indeed-search/                # Indeed / indeed.de (via Apify actor)
 ├── cv/
 │   └── main_example.tex               # moderncv LaTeX template
 ├── cover_letters/
@@ -198,7 +207,14 @@ The CV uses [moderncv](https://ctan.org/pkg/moderncv) (banking style). The cover
 
 ### Job search tools
 
-The four CLI tools in `.agents/skills/` are specific to the **Danish job market** (Jobbank, Jobdanmark, Jobindex, Jobnet). They demonstrate the pattern for building job portal integrations. If you're in a different country, you can build equivalent tools for your local job portals using the same structure.
+Six CLI tools in `.agents/skills/` target the **German / DACH job market**:
+
+- **`arbeitnow-search`** — hits Arbeitnow's free public JSON API directly (no token, no anti-bot). Best for tech, startup, remote, English-speaking, and visa-sponsorship roles.
+- **`stepstone-search`**, **`xing-search`**, **`linkedin-search`**, **`glassdoor-search`**, **`indeed-search`** — wrap maintained [Apify](https://apify.com) actors via the Apify REST API (`run-sync-get-dataset-items`), so Apify absorbs the anti-bot arms race. All require `APIFY_TOKEN` and cost a fraction of a cent per result (Indeed ~$0.06/1k, Glassdoor ~$0.40/1k, LinkedIn ~$0.70/1k).
+
+**Architecture.** All six emit the **same normalized JSON shape** (`id, title, company, location, date, salary, remote, url, source, description`). The five Apify boards share one driver — `.agents/skills/_shared/jobs.ts` (token handling, the `run-sync-get-dataset-items` call, formatters, the generic `runCli` dispatcher) — and each board is a thin adapter in its `cli/src/cli.ts` supplying just an actor ID, an input builder, and an output mapper (~50 lines). Adding a new board = a new adapter + a `SKILL.md`. To target a different country, swap the `actorId` in a board's `cli.ts` (see each tool's `url-reference.md` for alternatives), or copy `arbeitnow-search` for a free-API board.
+
+> **Indeed has no first-party MCP/API.** These CLIs reach it (and LinkedIn/Glassdoor/Stepstone/Xing) through Apify actors via a portable `APIFY_TOKEN`, so `/scrape` works for any fork. In an interactive session with the [Apify MCP connector](https://apify.com) attached, you can alternatively call the same actors directly through MCP — handy for ad-hoc lookups, but not the committed, portable path.
 
 ### Salary benchmarking
 
