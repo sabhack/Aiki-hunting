@@ -53,7 +53,20 @@ indeed:     --query "robotics engineer" --country de --posted 14
 indeed:     --query "AMR intralogistik" --country de --posted 14
 linkedin:   --query "mechatronics engineer" --location "Germany" --posted 7
 linkedin:   --query "autonomous mobile robots" --location "Germany" --posted 7
+glassdoor:  --query "robotics engineer" --location "Germany" --posted 14
+glassdoor:  --query "mechatronics engineer" --location "Germany" --posted 14
 xing:       --query "Robotik" --discipline "Engineering"
+```
+
+DACH fan-out (Austria + Switzerland — run on `/scrape broad` and on the scheduled runs):
+```
+indeed:     --query "robotics engineer" --country at --posted 14
+indeed:     --query "robotics engineer" --country ch --posted 14
+linkedin:   --query "mechatronics engineer" --location "Austria" --posted 7
+linkedin:   --query "mechatronics engineer" --location "Switzerland" --posted 7
+glassdoor:  --query "robotics engineer" --location "Austria" --posted 14
+glassdoor:  --query "robotics engineer" --location "Switzerland" --posted 14
+# Xing & Arbeitnow are already DACH/EU-wide — no extra location pass needed.
 ```
 
 ### Priority 2: Working-student & internship (Werkstudent / Praktikum)
@@ -136,5 +149,14 @@ roles with a **start date from mid-2026** are also in scope (flag the start date
 
 - "/scrape" → Priority 1 + 2, Germany-wide, all boards (Arbeitnow free + Apify if token set).
 - "/scrape werkstudent" or "/scrape praktikum" → Priority 2 focus.
-- "/scrape broad" → all three priorities + fan out to DACH (Indeed at/ch, LinkedIn AT/CH).
+- "/scrape broad" → all three priorities, **all six boards** (Arbeitnow, Stepstone, Indeed,
+  LinkedIn, Xing, Glassdoor) + fan out to DACH (Indeed/LinkedIn/Glassdoor AT + CH).
 - "/scrape <keyword>" → that keyword + the 2–3 most related lines above.
+
+### Scheduled runs (Monday + Thursday)
+
+The twice-weekly scheduled run is the **broad** run: all six boards (Arbeitnow, Stepstone,
+Indeed, LinkedIn, Xing, Glassdoor) across Priorities 1–3, including the Austria + Switzerland
+fan-out above. This is the same as invoking `/scrape broad`. Cost note: LinkedIn bills a
+minimum of ~150 results/run and Glassdoor ~$0.40/1k, so each scheduled run spends a few
+cents of Apify credit — expected and intentional for the wider coverage.

@@ -1,0 +1,2199 @@
+{
+  "seen": {
+    "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-software-engineer-production-engineering-gilching-161094": {
+      "title": "Embedded Software Engineer – Production Engineering (m/f/d)",
+      "company": "Quantum- Systems GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-software-engineer-production-engineering-gilching-161094",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=7283e55e282020a9": {
+      "title": "da Vinci Clinical Territory Associate (m/w/d)",
+      "company": "Intuitive Surgical",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=7283e55e282020a9",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=de908a7257fa7a64": {
+      "title": "Project Management Intern – Grant Administration (m/f/d)",
+      "company": "Synapticon GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=de908a7257fa7a64",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=a799a926469667a3": {
+      "title": "Robotics AI Engineer (w/m/d)",
+      "company": "Daimler Truck AG",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=a799a926469667a3",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=a8bdaabaf9fa0964": {
+      "title": "Senior Account Manager, Field Sales",
+      "company": "Analog Devices",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=a8bdaabaf9fa0964",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=e3c4badd564cf24f": {
+      "title": "Senior Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+      "company": "ABB Robotics LLC",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=e3c4badd564cf24f",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=9b0d7c723918e967": {
+      "title": "Senior Mechanical Engineer – Mobile Robotics (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=9b0d7c723918e967",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=e0f30b4627ae4bbf": {
+      "title": "Senior Mechanical Engineer – Mobile Robotics (human)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=e0f30b4627ae4bbf",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=7678be5cdbdf40ba": {
+      "title": "Solutions & Deployment Engineer (m/f/d)",
+      "company": "driveblocks",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=7678be5cdbdf40ba",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=d6aed851d90e4f2c": {
+      "title": "Field Service Engineer",
+      "company": "Boston Dynamics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=d6aed851d90e4f2c",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=60599da68dcc097e": {
+      "title": "Senior Mechanical Engineer – Mobile Robotics (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=60599da68dcc097e",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=76376c6ad0f3a09e": {
+      "title": "Data/Robot Operator (Teleops)(human)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=76376c6ad0f3a09e",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=05074c21688e0471": {
+      "title": "Senior C++ Software Engineer – Medical Imaging",
+      "company": "ImFusion GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=05074c21688e0471",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=33ec40efea37875b": {
+      "title": "AI Engineer (m/w/d) – Robotics & Intralogistics",
+      "company": "advastore SE",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=33ec40efea37875b",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=14d4768f9df78336": {
+      "title": "Product Qualification Engineer",
+      "company": "AptarGroup, Inc.",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=14d4768f9df78336",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=cec62a74fef99ef6": {
+      "title": "Enterprise Sales Engineer",
+      "company": "Boston Dynamics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=cec62a74fef99ef6",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=f2b22fe98dc421b1": {
+      "title": "Senior Engineer I&C Buildingautomation (m/f/d) Semiconductor",
+      "company": "Exentec",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=f2b22fe98dc421b1",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=1f377990e8a81c61": {
+      "title": "Senior Robotics Engineer for Healthcare Applications (f/m/d)",
+      "company": "Siemens Healthineers",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=1f377990e8a81c61",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=444d1e56558ae45b": {
+      "title": "Lead platform engineer",
+      "company": "Twentyfour Industries",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=444d1e56558ae45b",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=0a0856948b9d1571": {
+      "title": "Mechatroniker / Elektrotechniker (m/w/d)",
+      "company": "argus sensorsysteme GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=0a0856948b9d1571",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=10c19398549f04cd": {
+      "title": "Systemingenieur (m/w/d) Embedded Systems",
+      "company": "A. u. K. Müller GmbH & CO. KG",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=10c19398549f04cd",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=20a4cb651866fb7e": {
+      "title": "Student*in /m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Forschung und Entwicklung (Intraokularlinsen) - Image Processing & Machine Learning",
+      "company": "Alcon",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=20a4cb651866fb7e",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=cecef617eb16a6c5": {
+      "title": "Student*in /m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Forschung und Entwicklung (Intraokularlinsen) - Mechatronics & Process Development",
+      "company": "Alcon",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=cecef617eb16a6c5",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=982dce22722733de": {
+      "title": "Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Prozessoptimierung Packaging Development & Engineering",
+      "company": "Alcon",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=982dce22722733de",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=8d95d7f7cd502678": {
+      "title": "Produktionsmitarbeiter Mikrotechnologie (m/w/d)",
+      "company": "FINEOO Inhaber Eric Martin",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=8d95d7f7cd502678",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=b2b8fe45f9d5438b": {
+      "title": "Senior Konstrukteur Automotive – Baugruppenentwicklung (m/w/d) – Hoher Reiseanteil nach China",
+      "company": "BJ Automotive",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=b2b8fe45f9d5438b",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=2201a2f6af5876b0": {
+      "title": "Projektingenieur Produktion (m/w/d)",
+      "company": "RHEINMETALL",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=2201a2f6af5876b0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=78488f36a8b110a8": {
+      "title": "Elektriker / Elektroniker / Mechatroniker (m/w/d)",
+      "company": "mehnert GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=78488f36a8b110a8",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=bc998cffa262c47b": {
+      "title": "Inbetriebnahme-Spezialisten (m/w/d)",
+      "company": "mehnert GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=bc998cffa262c47b",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=bc967acfab0390a0": {
+      "title": "Feuerungstechniker / Brennmonteur im Anlagenbau (m/w/d) im Service",
+      "company": "Ammann Schweiz AG",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=bc967acfab0390a0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=aa6c00663150624f": {
+      "title": "Techniker (m/w/d) Fachbereich Elektrik im Service",
+      "company": "Ammann Schweiz AG",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=aa6c00663150624f",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=910ba60ee7c79a03": {
+      "title": "Techniker (m/w/d) Fachbereich Mechanik im Service",
+      "company": "Ammann Schweiz AG",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=910ba60ee7c79a03",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=324b5e25fa211864": {
+      "title": "Bachelorarbeit zum Thema: \"Entwicklung und Validierung eines vereinheitlichten thermischen Batteriemodells für Matlab/Simulink\"",
+      "company": "Siemens",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=324b5e25fa211864",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=79dc24cc86d01283": {
+      "title": "Hardwareentwickler (w/m/d)",
+      "company": "ZÖLLNER Signal GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=79dc24cc86d01283",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=8ae5cd977ea9fc24": {
+      "title": "Werkstudent*in IT & Laborinfrastruktur",
+      "company": "Clariant",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=8ae5cd977ea9fc24",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=47e2a2213c81bfb5": {
+      "title": "Werkstudent (m/w/d) B2B Sales",
+      "company": "Kite IT GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=47e2a2213c81bfb5",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=32fef8284f6755f0": {
+      "title": "Werkstudent Marketing & Content Creation (m/w/d)",
+      "company": "E-TERRY",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=32fef8284f6755f0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=3ab4c4af21f71f78": {
+      "title": "Werkstudent (m/w/d) Fabrikplanung & Produktionstechnik",
+      "company": "KSB SE & Co. KGaA",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=3ab4c4af21f71f78",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=b92b42564978b3f3": {
+      "title": "Werkstudent (f/m/d) oder Praxissemester in der Entwicklung",
+      "company": "iPEK International GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=b92b42564978b3f3",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=2f019c86599e7344": {
+      "title": "Werkstudent (w/m/d) - Programmierung & Digitalisierung im Controlling",
+      "company": "Siemens Energy",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=2f019c86599e7344",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=e45b784aa567ef7e": {
+      "title": "Werkstudent im Bereich Robotik-Prozessautomatisierung & Agentic AI (m/w/d)",
+      "company": "Allianz",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=e45b784aa567ef7e",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=fd5a302477ec516d": {
+      "title": "Werkstudent (m/w/d) für Robotik",
+      "company": "ARAGON",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=fd5a302477ec516d",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=f1196b0ab0313ee6": {
+      "title": "Werkstudium - Data & AI all genders",
+      "company": "Formigas GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=f1196b0ab0313ee6",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=a1c80df57c723f72": {
+      "title": "Werkstudent (m/w/d) Bereich Innovation",
+      "company": "HAKO GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=a1c80df57c723f72",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=055b9d812f30c4af": {
+      "title": "Workshopleiter:in Programmieren (m/w/d)",
+      "company": "MINT Zentrum Hirschaid gGmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=055b9d812f30c4af",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=804fbb92263bbb64": {
+      "title": "Werkstudent:in Softwareentwicklung im Bereich Automatisierung & Robotik (w/m/d)",
+      "company": "Welectron",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=804fbb92263bbb64",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=28336cec9a935d88": {
+      "title": "Werkstudent Inside Sales & Automation Solutions (m/w/d)",
+      "company": "Noyes Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=28336cec9a935d88",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=b33e0f9c88225845": {
+      "title": "Werkstudent Finance & Controlling (m/w/d)",
+      "company": "Noyes Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=b33e0f9c88225845",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Robotics-Mechatronics-Engineer-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067728-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Robotics / Mechatronics Engineer (m/f/d)",
+      "company": "CTC gGmbH – Center for the Transformation of Chemistry",
+      "source": "stepstone",
+      "url": "/jobs--Robotics-Mechatronics-Engineer-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067728-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Robotics-Software-Engineer-m-w-d-Berlin-EvoLogics-GmbH--13685001-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Robotics Software Engineer (m/w/d)",
+      "company": "EvoLogics GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Robotics-Software-Engineer-m-w-d-Berlin-EvoLogics-GmbH--13685001-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Schweissroboter-Programmierer-Bediener-m-w-d-Dissen-bei-Osnabruck-Strautmann-Systemtechnik--13910813-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Schweißroboter Programmierer/ Bediener (m/w/d)",
+      "company": "Strautmann Systemtechnik",
+      "source": "stepstone",
+      "url": "/jobs--Schweissroboter-Programmierer-Bediener-m-w-d-Dissen-bei-Osnabruck-Strautmann-Systemtechnik--13910813-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Robotik-Ingenieur-m-w-d-Halstenbek-Subsea-Europe-Services-GmbH--13660358-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Robotik Ingenieur (m/w/d)",
+      "company": "Subsea Europe Services GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Robotik-Ingenieur-m-w-d-Halstenbek-Subsea-Europe-Services-GmbH--13660358-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Roboterprogrammierer-m-w-d-Lackierautomation-Fulda-TECLAC-Werner-GmbH--14126049-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Roboterprogrammierer (m/w/d) – Lackierautomation",
+      "company": "TECLAC Werner GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Roboterprogrammierer-m-w-d-Lackierautomation-Fulda-TECLAC-Werner-GmbH--14126049-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Roboterprogrammierer-m-w-d-Lackierautomation-Fulda-meinestadt-de--14130284-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Roboterprogrammierer (m/w/d) – Lackierautomation",
+      "company": "meinestadt.de",
+      "source": "stepstone",
+      "url": "/jobs--Roboterprogrammierer-m-w-d-Lackierautomation-Fulda-meinestadt-de--14130284-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Senior-Humanoid-Robotics-Engineer-AI-Policies-Sim2Real-m-w-d-Paderborn-Fraunhofer-Institut-fur-Entwurfstechnik-Mechatronik-IEM--14060986-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0": {
+      "title": "(Senior) Humanoid Robotics Engineer – AI Policies & Sim2Real (m/w/d)",
+      "company": "Fraunhofer-Institut für Entwurfstechnik Mechatronik IEM",
+      "source": "stepstone",
+      "url": "/jobs--Senior-Humanoid-Robotics-Engineer-AI-Policies-Sim2Real-m-w-d-Paderborn-Fraunhofer-Institut-fur-Entwurfstechnik-Mechatronik-IEM--14060986-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Roboter-Programmierer-m-w-d-Bad-Camberg-rbc-robotics-GmbH--11543868-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Roboter-Programmierer (m/w/d)",
+      "company": "rbc robotics GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Roboter-Programmierer-m-w-d-Bad-Camberg-rbc-robotics-GmbH--11543868-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Roboterprogrammierer-Automatisierung-SPS-Simulation-m-w-d-Dohna-KRONING-Automation--13631796-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Roboterprogrammierer - Automatisierung / SPS / Simulation (m/w/d)",
+      "company": "KRÖNING - Automation",
+      "source": "stepstone",
+      "url": "/jobs--Roboterprogrammierer-Automatisierung-SPS-Simulation-m-w-d-Dohna-KRONING-Automation--13631796-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Roboterprogrammierer-Automatisierungstechniker-m-w-d-Schwerpunkt-Yaskawa-Robotik-Abensberg-BEIL-Registersysteme-GmbH--14091198-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Roboterprogrammierer / Automatisierungstechniker (m/w/d) - Schwerpunkt Yaskawa Robotik",
+      "company": "BEIL-Registersysteme GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Roboterprogrammierer-Automatisierungstechniker-m-w-d-Schwerpunkt-Yaskawa-Robotik-Abensberg-BEIL-Registersysteme-GmbH--14091198-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Robotics-Engineer-Agent-Control-UAV-Autonomy-m-w-d-Karlsruhe-Baden-Wurttemberg-Germany-Munchen-Bavaria-Germany-Alpine-Eagle-GmbH--13889603-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Robotics Engineer — Agent Control & UAV Autonomy (m/w/d)",
+      "company": "Alpine Eagle GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Robotics-Engineer-Agent-Control-UAV-Autonomy-m-w-d-Karlsruhe-Baden-Wurttemberg-Germany-Munchen-Bavaria-Germany-Alpine-Eagle-GmbH--13889603-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Schweissroboterprogrammierer-m-w-d-Haren-Ems-meinestadt-de--13841121-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Schweißroboterprogrammierer (m/w/d)",
+      "company": "meinestadt.de",
+      "source": "stepstone",
+      "url": "/jobs--Schweissroboterprogrammierer-m-w-d-Haren-Ems-meinestadt-de--13841121-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Roboterprogrammierer-m-w-d-Klettgau-Griessen-WMS-engineering-Werkzeuge-Maschinen-Systeme-GmbH--13954585-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Roboterprogrammierer (m/w/d)",
+      "company": "WMS-engineering Werkzeuge-Maschinen-Systeme GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Roboterprogrammierer-m-w-d-Klettgau-Griessen-WMS-engineering-Werkzeuge-Maschinen-Systeme-GmbH--13954585-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Roboterprogrammierer-SPS-Programmierer-m-w-d-Karlsruhe-FERCHAU-Connecting-People-and-Technologies--9069342-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Roboterprogrammierer / SPS-Programmierer (m/w/d)",
+      "company": "FERCHAU – Connecting People and Technologies",
+      "source": "stepstone",
+      "url": "/jobs--Roboterprogrammierer-SPS-Programmierer-m-w-d-Karlsruhe-FERCHAU-Connecting-People-and-Technologies--9069342-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Robotics-Software-Engineer-Augsburg-Lemvos-GmbH--12590153-inline.html?rltr=15_15_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Robotics Software Engineer",
+      "company": "Lemvos GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Robotics-Software-Engineer-Augsburg-Lemvos-GmbH--12590153-inline.html?rltr=15_15_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Werkstudent-m-w-d-Mobile-Development-Flutter-Hamburg-RABOT-Energy-DE-GmbH--14131722-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Werkstudent (m/w/d) Mobile Development (Flutter)",
+      "company": "RABOT Energy DE GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Werkstudent-m-w-d-Mobile-Development-Flutter-Hamburg-RABOT-Energy-DE-GmbH--14131722-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Intern-Robotics-Sindelfingen-Mercedes-Benz-AG--14148572-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Intern Robotics",
+      "company": "Mercedes-Benz AG",
+      "source": "stepstone",
+      "url": "/jobs--Intern-Robotics-Sindelfingen-Mercedes-Benz-AG--14148572-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Werkstudent-in-m-w-d-Business-Development-Deutschland-Traize-GmbH--14064131-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Werkstudent:in (m/w/d) Business Development",
+      "company": "Traize GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Werkstudent-in-m-w-d-Business-Development-Deutschland-Traize-GmbH--14064131-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Werkstudent-in-m-w-d-ML-Backend-Frontend-Deutschland-Traize-GmbH--14064129-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Werkstudent:in (m/w/d) ML, Backend & Frontend",
+      "company": "Traize GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Werkstudent-in-m-w-d-ML-Backend-Frontend-Deutschland-Traize-GmbH--14064129-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Werkstudent-m-w-d-Falkenstein-ALDI-Nord--13963256-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Werkstudent (m/w/d)",
+      "company": "ALDI Nord",
+      "source": "stepstone",
+      "url": "/jobs--Werkstudent-m-w-d-Falkenstein-ALDI-Nord--13963256-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Werkstudent-m-w-d-in-der-Kommissionierung-Nortorf-ALDI-Nord--14010098-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Werkstudent (m/w/d) in der Kommissionierung",
+      "company": "ALDI Nord",
+      "source": "stepstone",
+      "url": "/jobs--Werkstudent-m-w-d-in-der-Kommissionierung-Nortorf-ALDI-Nord--14010098-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Werkstudent-im-Bereich-Robotik-Prozessautomatisierung-Agentic-AI-m-w-d-Unterfohring-bei-Munchen-Allianz-Kunde-und-Markt-GmbH--14054630-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Werkstudent im Bereich Robotik-Prozessautomatisierung & Agentic AI (m/w/d)",
+      "company": "Allianz Kunde und Markt GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Werkstudent-im-Bereich-Robotik-Prozessautomatisierung-Agentic-AI-m-w-d-Unterfohring-bei-Munchen-Allianz-Kunde-und-Markt-GmbH--14054630-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Werkstudent-in-Customer-Service-Operations-B2B-Berlin-Care-com-Europe-GmbH--13785576-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Werkstudent in Customer Service Operations (B2B)",
+      "company": "Care.com Europe GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Werkstudent-in-Customer-Service-Operations-B2B-Berlin-Care-com-Europe-GmbH--13785576-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Einrichter-Anlagenfuhrer-Schichtleiter-Produktion-m-w-d-Robotik-Fugetechnik-Rodental-Blumenrod-Martin-Metallverarbeitung-GmbH--14067785-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Einrichter / Anlagenführer / Schichtleiter Produktion (m/w/d) – Robotik & Fügetechnik",
+      "company": "Martin Metallverarbeitung GmbH",
+      "source": "stepstone",
+      "url": "/jobs--Einrichter-Anlagenfuhrer-Schichtleiter-Produktion-m-w-d-Robotik-Fugetechnik-Rodental-Blumenrod-Martin-Metallverarbeitung-GmbH--14067785-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "/jobs--Werkstudent-Iserlohn-Letmathe-Iserlohn-ALDI-GmbH-Co-KG-Werl--13936498-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Werkstudent Iserlohn Letmathe",
+      "company": "ALDI GmbH & Co. KG, Werl",
+      "source": "stepstone",
+      "url": "/jobs--Werkstudent-Iserlohn-Letmathe-Iserlohn-ALDI-GmbH-Co-KG-Werl--13936498-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-14",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Kraftfahrer-C-oder-CE-Lkw-Fahrer-medizinische-Nebentatigkeiten-m-w-d-Lutjensee-Lutjensee-DRK-Blutspendedienst-Nord-Ost-gemeinnutzige-GmbH--14093164-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Kraftfahrer C oder CE / Lkw-Fahrer / medizinische Nebentätigkeiten (m/w/d) Lütjensee",
+      "company": "DRK-Blutspendedienst Nord-Ost gemeinnützige GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Kraftfahrer-C-oder-CE-Lkw-Fahrer-medizinische-Nebentatigkeiten-m-w-d-Lutjensee-Lutjensee-DRK-Blutspendedienst-Nord-Ost-gemeinnutzige-GmbH--14093164-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Kraftfahrer-m-w-d-mit-Fuhrerschein-Klasse-C-CE-Hamburg-Schuby-PETER-JENSEN-GmbH--14153892-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Kraftfahrer (m/w/d) mit Führerschein Klasse C, CE",
+      "company": "PETER JENSEN GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Kraftfahrer-m-w-d-mit-Fuhrerschein-Klasse-C-CE-Hamburg-Schuby-PETER-JENSEN-GmbH--14153892-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Embedded-Softwareentwickler-m-w-d-C-Microcontroller-Hamburg-Bremen-NORD-Engineering-Muller-GmbH--14030014-inline.html?rltr=3_3_25_seorl_m_1_0_0_0_1_0": {
+      "title": "Embedded Softwareentwickler (m/w/d) C / Microcontroller",
+      "company": "NORD Engineering Müller GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Embedded-Softwareentwickler-m-w-d-C-Microcontroller-Hamburg-Bremen-NORD-Engineering-Muller-GmbH--14030014-inline.html?rltr=3_3_25_seorl_m_1_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Praktikantin-technische-Projektleitung-C-CLE-Klasse-Sindelfingen-Mercedes-Benz-AG--14094053-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Praktikant*in technische Projektleitung C-/CLE- Klasse",
+      "company": "Mercedes-Benz AG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Praktikantin-technische-Projektleitung-C-CLE-Klasse-Sindelfingen-Mercedes-Benz-AG--14094053-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Kran-Kraftfahrer-in-C-CE-m-w-d-Osnabruck-KVN-Autokrane-GmbH--14071744-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Kran-,Kraftfahrer/in C CE (m/w/d)",
+      "company": "KVN Autokrane GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Kran-Kraftfahrer-in-C-CE-m-w-d-Osnabruck-KVN-Autokrane-GmbH--14071744-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Entwicklerin-fur-Embedded-Software-in-C-und-C-m-w-d-Barsinghausen-Region-Hannover-KES-Keschwari-Electronic-Systems-GmbH-Co-KG--9522203-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Entwickler(in) für Embedded Software in C und C++ (m/w/d)",
+      "company": "KES Keschwari Electronic Systems GmbH & Co. KG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Entwicklerin-fur-Embedded-Software-in-C-und-C-m-w-d-Barsinghausen-Region-Hannover-KES-Keschwari-Electronic-Systems-GmbH-Co-KG--9522203-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--LKW-Fahrer-mit-Lagertatigkeiten-Fuhrerscheinklasse-C-m-w-d-Arndt-Mayen-Mayen-MEG-Maler-Einkauf-Gruppe-eG--14098558-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0": {
+      "title": "LKW-Fahrer mit Lagertätigkeiten, Führerscheinklasse C (m/w/d) - Arndt Mayen",
+      "company": "MEG Maler Einkauf Gruppe eG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--LKW-Fahrer-mit-Lagertatigkeiten-Fuhrerscheinklasse-C-m-w-d-Arndt-Mayen-Mayen-MEG-Maler-Einkauf-Gruppe-eG--14098558-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Umzugshelfer-m-w-d-mit-LKW-Fuhrerschein-C1-C-Mannheim-ASH-Kurpfalz-Umzuge-GmbH--13649067-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Umzugshelfer (m/w/d) mit LKW-Führerschein (C1/C)",
+      "company": "ASH Kurpfalz Umzüge GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Umzugshelfer-m-w-d-mit-LKW-Fuhrerschein-C1-C-Mannheim-ASH-Kurpfalz-Umzuge-GmbH--13649067-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--LKW-Fahrer-C-CE-im-Fernverkehr-m-w-d-Chieming-REMONDIS-Chiemgau-GmbH--14156644-inline.html?rltr=9_9_25_seorl_m_1_0_0_0_1_0": {
+      "title": "LKW-Fahrer (C/CE) im Fernverkehr (m/w/d)",
+      "company": "REMONDIS Chiemgau GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--LKW-Fahrer-C-CE-im-Fernverkehr-m-w-d-Chieming-REMONDIS-Chiemgau-GmbH--14156644-inline.html?rltr=9_9_25_seorl_m_1_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Certifying-Staff-B1-B2-oder-C-Fluggeratmechaniker-in-m-w-d-Calden-Schonhagen-AIR-LLOYD-AEROTECHNICS-GmbH--13544547-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Certifying Staff B1 / B2 oder C, Fluggerätmechaniker/in (m/w/d)",
+      "company": "AIR LLOYD AEROTECHNICS GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Certifying-Staff-B1-B2-oder-C-Fluggeratmechaniker-in-m-w-d-Calden-Schonhagen-AIR-LLOYD-AEROTECHNICS-GmbH--13544547-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--LKW-Fahrer-C-CE-m-w-d-Pulheim-KLUCK-UMWELT-LOGISTIK-Gesellschaft-fur-Abfallbeseitigung--14166855-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_1_0": {
+      "title": "LKW-Fahrer C/CE (m/w/d)",
+      "company": "KLUCK UMWELT-LOGISTIK Gesellschaft für Abfallbeseitigung",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--LKW-Fahrer-C-CE-m-w-d-Pulheim-KLUCK-UMWELT-LOGISTIK-Gesellschaft-fur-Abfallbeseitigung--14166855-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Lkw-Fahrer-m-w-d-Klasse-C-CE-Wadern-meinestadt-de--14028891-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Lkw Fahrer (m/w/d) Klasse C/CE",
+      "company": "meinestadt.de",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Lkw-Fahrer-m-w-d-Klasse-C-CE-Wadern-meinestadt-de--14028891-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--KFZ-Mechatroniker-m-w-d-Starte-durch-mit-bezahltem-C-Fuhrerschein-Oberkramer-Harald-Bruhns-GmbH--13665639-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_0_0": {
+      "title": "KFZ-Mechatroniker (m/w/d) – Starte durch mit bezahltem C-Führerschein",
+      "company": "Harald Bruhns GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--KFZ-Mechatroniker-m-w-d-Starte-durch-mit-bezahltem-C-Fuhrerschein-Oberkramer-Harald-Bruhns-GmbH--13665639-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Kraftfahrer-in-m-w-d-mit-der-Fahrerlaubnis-C-CE-Hamburg-HEG-Hamburger-Entsorgungsges-mbH--8945065-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Kraftfahrer/in (m/w/d) mit der Fahrerlaubnis C / CE",
+      "company": "HEG Hamburger Entsorgungsges. mbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Kraftfahrer-in-m-w-d-mit-der-Fahrerlaubnis-C-CE-Hamburg-HEG-Hamburger-Entsorgungsges-mbH--8945065-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Duales-Studium-BWL-Spezialisierung-Handelsmanagement-B-A-RStores-GmbH-c-o-G-STAR-Bremen-Bremen-IU-Internationale-Hochschule--14159082-inline.html?rltr=15_15_25_seorl_m_1_0_0_0_0_0": {
+      "title": "Duales Studium BWL - Spezialisierung Handelsmanagement (B.A.) - RStores GmbH c/o G-STAR Bremen",
+      "company": "IU Internationale Hochschule",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Duales-Studium-BWL-Spezialisierung-Handelsmanagement-B-A-RStores-GmbH-c-o-G-STAR-Bremen-Bremen-IU-Internationale-Hochschule--14159082-inline.html?rltr=15_15_25_seorl_m_1_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Duales-Studium-BWL-Spezialisierung-Handelsmanagement-B-A-am-virtuellen-Campus-RStores-GmbH-c-o-G-STAR-Munster-bundesweit-Home-Office-IU-Internationale-Hochschule--14159071-inline.html?rltr=16_16_25_seorl_m_1_0_0_0_0_0": {
+      "title": "Duales Studium BWL - Spezialisierung Handelsmanagement (B.A.) am virtuellen Campus - RStores GmbH c/o G-STAR Münster",
+      "company": "IU Internationale Hochschule",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Duales-Studium-BWL-Spezialisierung-Handelsmanagement-B-A-am-virtuellen-Campus-RStores-GmbH-c-o-G-STAR-Munster-bundesweit-Home-Office-IU-Internationale-Hochschule--14159071-inline.html?rltr=16_16_25_seorl_m_1_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Duales-Studium-BWL-Spezialisierung-Handelsmanagement-B-A-am-virtuellen-Campus-RStores-GmbH-c-o-G-STAR-Braunschweig-Braunschweig-Home-Office-IU-Internationale-Hochschule--14159070-inline.html?rltr=17_17_25_seorl_m_1_0_0_0_0_0": {
+      "title": "Duales Studium BWL - Spezialisierung Handelsmanagement (B.A.) am virtuellen Campus - RStores GmbH c/o G-STAR Braunschweig",
+      "company": "IU Internationale Hochschule",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Duales-Studium-BWL-Spezialisierung-Handelsmanagement-B-A-am-virtuellen-Campus-RStores-GmbH-c-o-G-STAR-Braunschweig-Braunschweig-Home-Office-IU-Internationale-Hochschule--14159070-inline.html?rltr=17_17_25_seorl_m_1_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--LKW-Fahrer-C-CE-Uberkopflader-m-w-d-Freudenstadt-REMONDIS-Sud-GmbH--14071487-inline.html?rltr=18_18_25_seorl_m_1_0_0_0_1_0": {
+      "title": "LKW-Fahrer (C/CE) / Überkopflader (m/w/d)",
+      "company": "REMONDIS Süd GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--LKW-Fahrer-C-CE-Uberkopflader-m-w-d-Freudenstadt-REMONDIS-Sud-GmbH--14071487-inline.html?rltr=18_18_25_seorl_m_1_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Duales-Studium-BWL-Spezialisierung-Handelsmanagement-B-A-RStores-GmbH-c-o-G-STAR-Karlsruhe-Karlsruhe-IU-Internationale-Hochschule--14159077-inline.html?rltr=19_19_25_seorl_m_1_0_0_0_0_0": {
+      "title": "Duales Studium BWL - Spezialisierung Handelsmanagement (B.A.) - RStores GmbH c/o G-STAR Karlsruhe",
+      "company": "IU Internationale Hochschule",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Duales-Studium-BWL-Spezialisierung-Handelsmanagement-B-A-RStores-GmbH-c-o-G-STAR-Karlsruhe-Karlsruhe-IU-Internationale-Hochschule--14159077-inline.html?rltr=19_19_25_seorl_m_1_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Berufskraftfahrer-LKW-Fahrer-m-w-d-Klasse-C-CE-Koln-Tagestour-Nahverkehr-Koln-meinestadt-de--13970004-inline.html?rltr=20_20_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Berufskraftfahrer / LKW Fahrer (m/w/d) Klasse C/CE Köln - Tagestour / Nahverkehr",
+      "company": "meinestadt.de",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Berufskraftfahrer-LKW-Fahrer-m-w-d-Klasse-C-CE-Koln-Tagestour-Nahverkehr-Koln-meinestadt-de--13970004-inline.html?rltr=20_20_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--LKW-Fahrer-Berufskraftfahrer-C-CE-fur-Seitenlader-m-w-d-Wilhelmshaven-REMONDIS-GmbH-Co-KG-Region-Nord--14024282-inline.html?rltr=21_21_25_seorl_m_1_0_0_0_1_0": {
+      "title": "LKW Fahrer / Berufskraftfahrer (C/CE) für Seitenlader (m/w/d)",
+      "company": "REMONDIS GmbH & Co. KG Region Nord",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--LKW-Fahrer-Berufskraftfahrer-C-CE-fur-Seitenlader-m-w-d-Wilhelmshaven-REMONDIS-GmbH-Co-KG-Region-Nord--14024282-inline.html?rltr=21_21_25_seorl_m_1_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--LKW-Fahrer-C-CE-m-w-d-Schwentinental-DAN-LACHS-GmbH--14072211-inline.html?rltr=22_22_25_seorl_m_0_0_0_0_1_0": {
+      "title": "LKW-Fahrer C/CE (m/w/d)",
+      "company": "DAN LACHS GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--LKW-Fahrer-C-CE-m-w-d-Schwentinental-DAN-LACHS-GmbH--14072211-inline.html?rltr=22_22_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Fahrer-im-Nahverkehr-mit-Fuhrerschein-der-Klasse-C-CE-m-w-d-Geithain-Elis-Deutschland--14070482-inline.html?rltr=23_23_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Fahrer im Nahverkehr mit Führerschein der Klasse C / CE (m/w/d)",
+      "company": "Elis Deutschland",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Fahrer-im-Nahverkehr-mit-Fuhrerschein-der-Klasse-C-CE-m-w-d-Geithain-Elis-Deutschland--14070482-inline.html?rltr=23_23_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--LKW-Fahrer-mit-Fuhrerschein-C-CE-m-w-d-Augsburg-W-P-Management-Consult-GmbH--13693849-inline.html?rltr=24_24_25_seorl_m_0_0_0_0_1_0": {
+      "title": "LKW-Fahrer mit Führerschein C/CE (m/w/d)",
+      "company": "W-P Management Consult GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--LKW-Fahrer-mit-Fuhrerschein-C-CE-m-w-d-Augsburg-W-P-Management-Consult-GmbH--13693849-inline.html?rltr=24_24_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--LKW-Fahrer-m-w-d-auf-Mini-Job-Basis-mit-Fuhrerschein-Klasse-C-CE-Keine-Fahrerkarte-erforderlich-Bruhl-MP-Music-Veranstaltungstechnik-Inh-Manuel-Putz--14146346-inline.html?rltr=25_25_25_seorl_m_0_0_0_0_1_0": {
+      "title": "LKW Fahrer (m/w/d) auf Mini-Job Basis, mit Führerschein Klasse  C/CE, (Keine Fahrerkarte erforderlich) ",
+      "company": "MP-Music Veranstaltungstechnik Inh. Manuel Pütz",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--LKW-Fahrer-m-w-d-auf-Mini-Job-Basis-mit-Fuhrerschein-Klasse-C-CE-Keine-Fahrerkarte-erforderlich-Bruhl-MP-Music-Veranstaltungstechnik-Inh-Manuel-Putz--14146346-inline.html?rltr=25_25_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Elektriker-Elektroniker-Mechatroniker-Schlosser-als-Monteur-Toranlagen-m-w-d-Hamburg-Hannover-Bremen-Meppen-Norddeutschland-UNITOR-Torsysteme-GmbH--13450459-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Elektriker / Elektroniker / Mechatroniker / Schlosser als Monteur – Toranlagen (m/w/d)",
+      "company": "UNITOR Torsysteme GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Elektriker-Elektroniker-Mechatroniker-Schlosser-als-Monteur-Toranlagen-m-w-d-Hamburg-Hannover-Bremen-Meppen-Norddeutschland-UNITOR-Torsysteme-GmbH--13450459-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatronik-AIT-Techniker-Elektrische-Mechanische-Integration-all-gender-Friedrichshafen-ALTEN-GmbH--14163100-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Mechatronik AIT Techniker – Elektrische & Mechanische Integration (all gender)",
+      "company": "ALTEN GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatronik-AIT-Techniker-Elektrische-Mechanische-Integration-all-gender-Friedrichshafen-ALTEN-GmbH--14163100-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatronics-technician-m-f-d-Klosterlechfeld-Blumer-Lehmann-GmbH--14162344-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mechatronics technician (m/f/d)",
+      "company": "Blumer-Lehmann GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatronics-technician-m-f-d-Klosterlechfeld-Blumer-Lehmann-GmbH--14162344-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Techniker-m-w-d-Testequipment-Mechatronik-befristet-bis-voraussichtlich-2030-Dresden-Diehl-Aviation--14102894-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Techniker (m/w/d) Testequipment (Mechatronik) – befristet bis voraussichtlich 2030",
+      "company": "Diehl Aviation",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Techniker-m-w-d-Testequipment-Mechatronik-befristet-bis-voraussichtlich-2030-Dresden-Diehl-Aviation--14102894-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatronics-AIT-Technician-Electrical-Mechanical-Integration-all-gender-Friedrichshafen-ALTEN-GmbH--14163230-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Mechatronics AIT Technician – Electrical & Mechanical Integration (all gender)",
+      "company": "ALTEN GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatronics-AIT-Technician-Electrical-Mechanical-Integration-all-gender-Friedrichshafen-ALTEN-GmbH--14163230-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Professur-fur-das-Lehrgebiet-Mechatronik-m-w-d-der-BesGr-W-2-Weiden-Ostbayerische-Technische-Hochschule-Amberg-Weiden-OTH--14164038-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Professur für das Lehrgebiet Mechatronik (m/w/d) der BesGr. W 2",
+      "company": "Ostbayerische Technische Hochschule Amberg-Weiden (OTH)",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Professur-fur-das-Lehrgebiet-Mechatronik-m-w-d-der-BesGr-W-2-Weiden-Ostbayerische-Technische-Hochschule-Amberg-Weiden-OTH--14164038-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Servicetechniker-Mechatronik-m-w-d-fur-Verpackungsmaschinen-im-Gebiet-Sachsen-Sachsen-EOL-Packaging-Experts-GmbH--14166844-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Servicetechniker Mechatronik (m/w/d) für Verpackungsmaschinen im Gebiet Sachsen",
+      "company": "EOL Packaging Experts GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Servicetechniker-Mechatronik-m-w-d-fur-Verpackungsmaschinen-im-Gebiet-Sachsen-Sachsen-EOL-Packaging-Experts-GmbH--14166844-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Servicetechniker-in-Fachrichtung-Mechatronik-im-Aussendienst-fur-den-Bereich-Service-Montage-an-den-Standorten-Dusseldorf-und-Stuttgart-Dusseldorf-Stuttgart-Amada-Machinery-Europe-GmbH--13349163-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Servicetechniker/in (Fachrichtung Mechatronik) im Außendienst für den Bereich Service / Montage, an den Standorten Düsseldorf und Stuttgart",
+      "company": "Amada Machinery Europe GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Servicetechniker-in-Fachrichtung-Mechatronik-im-Aussendienst-fur-den-Bereich-Service-Montage-an-den-Standorten-Dusseldorf-und-Stuttgart-Dusseldorf-Stuttgart-Amada-Machinery-Europe-GmbH--13349163-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Techniker-Auftragsbearbeitung-m-w-Fachrichtung-Elektrotechnik-Mechatronik-Gummersbach-ABUS-Kransysteme-GmbH--14146010-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Techniker Auftragsbearbeitung (m/w) Fachrichtung Elektrotechnik / Mechatronik",
+      "company": "ABUS Kransysteme GmbH  ",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Techniker-Auftragsbearbeitung-m-w-Fachrichtung-Elektrotechnik-Mechatronik-Gummersbach-ABUS-Kransysteme-GmbH--14146010-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Wartungstechniker-m-w-d-Mechatronik-Industriemechanik-Rodinghausen-Hacker-Kuchen-GmbH-Co-KG--14082256-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Wartungstechniker (m/w/d) Mechatronik / Industriemechanik",
+      "company": "Häcker Küchen GmbH & Co. KG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Wartungstechniker-m-w-d-Mechatronik-Industriemechanik-Rodinghausen-Hacker-Kuchen-GmbH-Co-KG--14082256-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatroniker-m-w-d-Bochum-DEKRA-Arbeit-GmbH--14092094-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mechatroniker (m/w/d)",
+      "company": "DEKRA Arbeit GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatroniker-m-w-d-Bochum-DEKRA-Arbeit-GmbH--14092094-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Robotics-Mechatronics-Engineer-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067728-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Robotics / Mechatronics Engineer (m/f/d)",
+      "company": "CTC gGmbH – Center for the Transformation of Chemistry",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Robotics-Mechatronics-Engineer-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067728-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Land-und-Baumaschinenmechatronik-Meister-m-w-d-Sengenthal-Sengenthal-Greisselbach-Max-Bogl-Transport-und-Gerate-GmbH-Co-KG--14166152-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Land- und Baumaschinenmechatronik-Meister (m/w/d) | Sengenthal",
+      "company": "Max Bögl Transport und Geräte GmbH & Co. KG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Land-und-Baumaschinenmechatronik-Meister-m-w-d-Sengenthal-Sengenthal-Greisselbach-Max-Bogl-Transport-und-Gerate-GmbH-Co-KG--14166152-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatroniker-Elektroniker-w-m-d-fur-Betriebstechnik-Berlin-Apleona-GmbH--13745983-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mechatroniker / Elektroniker (w/m/d) für Betriebstechnik",
+      "company": "Apleona GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatroniker-Elektroniker-w-m-d-fur-Betriebstechnik-Berlin-Apleona-GmbH--13745983-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatroniker-Elektroniker-w-m-d-fur-Betriebstechnik-Neuruppin-Apleona-GmbH--13608128-inline.html?rltr=15_15_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mechatroniker / Elektroniker (w/m/d) für Betriebstechnik",
+      "company": "Apleona GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatroniker-Elektroniker-w-m-d-fur-Betriebstechnik-Neuruppin-Apleona-GmbH--13608128-inline.html?rltr=15_15_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatroniker-Elektroniker-w-m-d-fur-Betriebstechnik-Cologne-Apleona-GmbH--13911801-inline.html?rltr=16_16_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mechatroniker / Elektroniker (w/m/d) für Betriebstechnik",
+      "company": "Apleona GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatroniker-Elektroniker-w-m-d-fur-Betriebstechnik-Cologne-Apleona-GmbH--13911801-inline.html?rltr=16_16_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatroniker-Elektroniker-w-m-d-fur-Betriebstechnik-Kaiserslautern-Apleona-GmbH--13745982-inline.html?rltr=17_17_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mechatroniker / Elektroniker (w/m/d) für Betriebstechnik",
+      "company": "Apleona GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatroniker-Elektroniker-w-m-d-fur-Betriebstechnik-Kaiserslautern-Apleona-GmbH--13745982-inline.html?rltr=17_17_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mechatroniker-m-w-d-militarische-Fahrzeuge-Munchen-KNDS--12677496-inline.html?rltr=18_18_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mechatroniker (m/w/d) militärische Fahrzeuge",
+      "company": "KNDS",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mechatroniker-m-w-d-militarische-Fahrzeuge-Munchen-KNDS--12677496-inline.html?rltr=18_18_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Entwicklungsingenieur-Mechatronik-Produktentwicklung-m-w-d-Pforzheim-Buben-Zorweg-Manufaktur-GmbH--14159994-inline.html?rltr=19_19_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Entwicklungsingenieur Mechatronik / Produktentwicklung (m/w/d)",
+      "company": "Buben & Zörweg Manufaktur GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Entwicklungsingenieur-Mechatronik-Produktentwicklung-m-w-d-Pforzheim-Buben-Zorweg-Manufaktur-GmbH--14159994-inline.html?rltr=19_19_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Duales-Studium-Mechatronik-w-m-d-2027-Waiblingen-ANDREAS-STIHL-AG-Co-KG--14102242-inline.html?rltr=20_20_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Duales Studium Mechatronik (w/m/d) 2027",
+      "company": "ANDREAS STIHL AG & Co. KG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Duales-Studium-Mechatronik-w-m-d-2027-Waiblingen-ANDREAS-STIHL-AG-Co-KG--14102242-inline.html?rltr=20_20_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Duales-Studium-Mechatronik-Elektromobilitat-und-Fahrzeugsystemtechnik-B-Eng-Campusmodell-Sindelfingen-2026-w-m-d-Sindelfingen-Mercedes-Benz-AG--12607801-inline.html?rltr=21_21_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Duales Studium Mechatronik/Elektromobilität und Fahrzeugsystemtechnik (B.Eng.), Campusmodell Sindelfingen 2026 (w/m/d)",
+      "company": "Mercedes-Benz AG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Duales-Studium-Mechatronik-Elektromobilitat-und-Fahrzeugsystemtechnik-B-Eng-Campusmodell-Sindelfingen-2026-w-m-d-Sindelfingen-Mercedes-Benz-AG--12607801-inline.html?rltr=21_21_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Duales-Studium-Mechatronik-Elektromobilitat-und-Fahrzeugsystemtechnik-B-Eng-Campusmodell-Bremen-Sindelfingen-2026-w-m-d-Bremen-Sindelfingen-Mercedes-Benz-AG--12593219-inline.html?rltr=22_22_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Duales Studium Mechatronik/Elektromobilität und Fahrzeugsystemtechnik (B.Eng.), Campusmodell Bremen/Sindelfingen 2026 (w/m/d)",
+      "company": "Mercedes-Benz AG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Duales-Studium-Mechatronik-Elektromobilitat-und-Fahrzeugsystemtechnik-B-Eng-Campusmodell-Bremen-Sindelfingen-2026-w-m-d-Bremen-Sindelfingen-Mercedes-Benz-AG--12593219-inline.html?rltr=22_22_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Ingenieur-Maschinenbau-Mechatronik-m-w-d-fur-Forschung-und-Entwicklung-Munchen-Brugger-Feinmechanik-GmbH--14146168-inline.html?rltr=23_23_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Ingenieur Maschinenbau / Mechatronik (m/w/d) für Forschung und Entwicklung",
+      "company": "Brugger Feinmechanik GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Ingenieur-Maschinenbau-Mechatronik-m-w-d-fur-Forschung-und-Entwicklung-Munchen-Brugger-Feinmechanik-GmbH--14146168-inline.html?rltr=23_23_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Duales-Studium-Mechatronik-w-m-d-Oberkochen-2027-Oberkochen-HENSOLDT--14098632-inline.html?rltr=24_24_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Duales Studium: \"Mechatronik\" (w/m/d), Oberkochen, 2027",
+      "company": "HENSOLDT",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Duales-Studium-Mechatronik-w-m-d-Oberkochen-2027-Oberkochen-HENSOLDT--14098632-inline.html?rltr=24_24_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Studyship-Ausbildung-Mechatronik-Chemikant-m-w-d-duales-Studium-bei-tesa-Hamburg-Hausbruch-Norderstedt-tesa-Werk-Hamburg-GmbH--12302935-inline.html?rltr=25_25_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Studyship - Ausbildung (Mechatronik/Chemikant (m/w/d) & duales Studium bei tesa",
+      "company": "tesa Werk Hamburg GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Studyship-Ausbildung-Mechatronik-Chemikant-m-w-d-duales-Studium-bei-tesa-Hamburg-Hausbruch-Norderstedt-tesa-Werk-Hamburg-GmbH--12302935-inline.html?rltr=25_25_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Robotics-Mechatronics-Engineer-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067728-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Robotics / Mechatronics Engineer (m/f/d)",
+      "company": "CTC gGmbH – Center for the Transformation of Chemistry",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Robotics-Mechatronics-Engineer-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067728-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Robotics-AI-Engineer-w-m-d-Leinfelden-Echterdingen-Daimler-Truck-AG--14162142-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Robotics AI Engineer (w/m/d)",
+      "company": "Daimler Truck AG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Robotics-AI-Engineer-w-m-d-Leinfelden-Echterdingen-Daimler-Truck-AG--14162142-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Schweissroboterprogrammierer-m-w-d-Haren-Ems-meinestadt-de--13841121-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Schweißroboterprogrammierer (m/w/d)",
+      "company": "meinestadt.de",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Schweissroboterprogrammierer-m-w-d-Haren-Ems-meinestadt-de--13841121-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Schweissroboter-Programmierer-Bediener-m-w-d-Dissen-bei-Osnabruck-Strautmann-Systemtechnik--13910813-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Schweißroboter Programmierer/ Bediener (m/w/d)",
+      "company": "Strautmann Systemtechnik",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Schweissroboter-Programmierer-Bediener-m-w-d-Dissen-bei-Osnabruck-Strautmann-Systemtechnik--13910813-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Roboterprogrammierer-Automatisierung-SPS-Simulation-m-w-d-Dohna-KRONING-Automation--13631796-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Roboterprogrammierer - Automatisierung / SPS / Simulation (m/w/d)",
+      "company": "KRÖNING - Automation",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Roboterprogrammierer-Automatisierung-SPS-Simulation-m-w-d-Dohna-KRONING-Automation--13631796-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Software-Platform-Engineer-Self-Driving-Labs-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067734-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Software Platform Engineer - Self-Driving Labs (m/f/d)",
+      "company": "CTC gGmbH – Center for the Transformation of Chemistry",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Software-Platform-Engineer-Self-Driving-Labs-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067734-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Roboter-Programmierer-m-w-d-Koln-Deutschland-Karl-Schumacher-Maschinenbau-GmbH-KSM--13981781-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Roboter Programmierer (m/w/d)",
+      "company": "Karl Schumacher Maschinenbau GmbH (KSM)",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Roboter-Programmierer-m-w-d-Koln-Deutschland-Karl-Schumacher-Maschinenbau-GmbH-KSM--13981781-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Roboter-Programmierer-m-w-d-Koln-Karl-Schumacher-Maschinenbau-GmbH-KSM--14096754-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Roboter Programmierer (m/w/d)",
+      "company": "Karl Schumacher Maschinenbau GmbH (KSM)",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Roboter-Programmierer-m-w-d-Koln-Karl-Schumacher-Maschinenbau-GmbH-KSM--14096754-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Roboterprogrammierer-m-w-d-Hohentengen-bei-Bad-Saulgau-NMH-GmbH--14089285-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Roboterprogrammierer (m/w/d)",
+      "company": "NMH GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Roboterprogrammierer-m-w-d-Hohentengen-bei-Bad-Saulgau-NMH-GmbH--14089285-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Programmierer-m-w-d-Bereich-Roboter-und-SPS-Wadern-ARISAR-GmbH--13192627-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Programmierer (m/w/d) - Bereich Roboter und SPS",
+      "company": "ARISAR GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Programmierer-m-w-d-Bereich-Roboter-und-SPS-Wadern-ARISAR-GmbH--13192627-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Aditor-Roboter-Programmierer-m-w-d-Saarwellingen-ADITOR-GmbH--14078309-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Aditor Roboter-Programmierer m/w/d",
+      "company": "ADITOR GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Aditor-Roboter-Programmierer-m-w-d-Saarwellingen-ADITOR-GmbH--14078309-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Programmierer-m-w-d-Bereich-SPS-und-Roboter-Wadern-ARISAR-GmbH--14023382-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Programmierer (m/w/d) - Bereich SPS und Roboter",
+      "company": "ARISAR GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Programmierer-m-w-d-Bereich-SPS-und-Roboter-Wadern-ARISAR-GmbH--14023382-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Technikerin-E-Aldersbach-Metallbau-Haslinger-GmbH--13830809-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Techniker(in) E",
+      "company": "Metallbau Haslinger GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Technikerin-E-Aldersbach-Metallbau-Haslinger-GmbH--13830809-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Product-Application-Engineer-m-f-d-GaN-Hamburg-Nexperia-Germany-GmbH--14166339-inline.html?rltr=14_14_25_seorl_s_0_0_0_0_0_0": {
+      "title": "Product Application Engineer (m/f/d) - GaN",
+      "company": "Nexperia Germany GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Product-Application-Engineer-m-f-d-GaN-Hamburg-Nexperia-Germany-GmbH--14166339-inline.html?rltr=14_14_25_seorl_s_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Research-Engineer-Training-Large-Behavior-Models-with-Reinforcement-Learning-EG16-f-m-div-Renningen-Bosch-Gruppe--13961888-inline.html?rltr=15_15_25_seorl_s_0_0_0_0_0_0": {
+      "title": "Research Engineer - Training Large Behavior Models with Reinforcement Learning (EG16, f/m/div.)",
+      "company": "Bosch Gruppe",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Research-Engineer-Training-Large-Behavior-Models-with-Reinforcement-Learning-EG16-f-m-div-Renningen-Bosch-Gruppe--13961888-inline.html?rltr=15_15_25_seorl_s_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Cross-Platform-C-Build-DevEx-Engineer-AgileCore-m-f-d-Munchen-Agile-Robots-SE--14099589-inline.html?rltr=16_16_25_seorl_s_0_0_0_0_1_0": {
+      "title": "Cross-Platform C++ Build & DevEx Engineer - AgileCore (m/f/d)",
+      "company": "Agile Robots SE",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Cross-Platform-C-Build-DevEx-Engineer-AgileCore-m-f-d-Munchen-Agile-Robots-SE--14099589-inline.html?rltr=16_16_25_seorl_s_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Space-Avionics-Simulation-Software-Engineer-all-gender-Friedrichshafen-ALTEN-GmbH--14153234-inline.html?rltr=17_17_25_seorl_s_0_0_0_0_1_0": {
+      "title": "Space Avionics Simulation & Software Engineer (all gender)",
+      "company": "ALTEN GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Space-Avionics-Simulation-Software-Engineer-all-gender-Friedrichshafen-ALTEN-GmbH--14153234-inline.html?rltr=17_17_25_seorl_s_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Softwareentwickler-Robotics-Automatisierung-m-w-x-Gutersloh-Arvato-SE--14071374-inline.html?rltr=18_18_25_seorl_s_0_0_0_0_0_0": {
+      "title": "Softwareentwickler Robotics & Automatisierung (m/w/x)",
+      "company": "Arvato SE",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Softwareentwickler-Robotics-Automatisierung-m-w-x-Gutersloh-Arvato-SE--14071374-inline.html?rltr=18_18_25_seorl_s_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Physiker-m-w-d-als-Data-Scientist-Algorithmenentwickler-im-Bereich-EMAT-Lingen-Osnabruck-Rosen-Technology-Research-Center-GmbH--13584406-inline.html?rltr=19_19_25_seorl_s_0_0_0_0_0_0": {
+      "title": "Physiker (m/w/d) als Data Scientist / Algorithmenentwickler im Bereich EMAT",
+      "company": "Rosen Technology & Research Center GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Physiker-m-w-d-als-Data-Scientist-Algorithmenentwickler-im-Bereich-EMAT-Lingen-Osnabruck-Rosen-Technology-Research-Center-GmbH--13584406-inline.html?rltr=19_19_25_seorl_s_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Physiker-m-w-d-als-Data-Scientist-Algorithmenentwickler-im-Bereich-Ultraschall-Lingen-Rosen-Technology-Research-Center-GmbH--13698451-inline.html?rltr=20_20_25_seorl_s_0_0_0_0_0_0": {
+      "title": "Physiker (m/w/d) als Data Scientist / Algorithmenentwickler im Bereich Ultraschall",
+      "company": "Rosen Technology & Research Center GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Physiker-m-w-d-als-Data-Scientist-Algorithmenentwickler-im-Bereich-Ultraschall-Lingen-Rosen-Technology-Research-Center-GmbH--13698451-inline.html?rltr=20_20_25_seorl_s_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Senior-HW-SW-System-Engineer-Stolen-Vehicle-Telematics-m-w-d-Frankfurt-am-Main-Bosch-Gruppe--13711361-inline.html?rltr=21_21_25_seorl_s_0_0_0_0_0_0": {
+      "title": "Senior HW/SW System Engineer (Stolen Vehicle Telematics) (m/w/d)",
+      "company": "Bosch Gruppe",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Senior-HW-SW-System-Engineer-Stolen-Vehicle-Telematics-m-w-d-Frankfurt-am-Main-Bosch-Gruppe--13711361-inline.html?rltr=21_21_25_seorl_s_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Technical-Support-Engineer-m-w-d-PCB-Design-CAD-Software-Aachen-Peschges-Variometer-GmbH--14085805-inline.html?rltr=22_22_25_seorl_s_0_0_0_0_1_0": {
+      "title": "Technical Support Engineer (m/w/d)– PCB Design/CAD Software",
+      "company": "Peschges Variometer GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Technical-Support-Engineer-m-w-d-PCB-Design-CAD-Software-Aachen-Peschges-Variometer-GmbH--14085805-inline.html?rltr=22_22_25_seorl_s_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mathematiker-Physiker-oder-Ingenieur-w-m-d-als-Algorithmenentwickler-w-m-d-fur-innovative-Messsysteme-Optik-Radar-Rontgen-und-Einsatz-von-KI-Bremen-SIKORA-GmbH--14150339-inline.html?rltr=23_23_25_seorl_s_0_0_0_0_0_0": {
+      "title": "Mathematiker, Physiker oder Ingenieur (w/m/d) als Algorithmenentwickler (w/m/d) für innovative Messsysteme – Optik, Radar, Röntgen und Einsatz von KI",
+      "company": "SIKORA GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mathematiker-Physiker-oder-Ingenieur-w-m-d-als-Algorithmenentwickler-w-m-d-fur-innovative-Messsysteme-Optik-Radar-Rontgen-und-Einsatz-von-KI-Bremen-SIKORA-GmbH--14150339-inline.html?rltr=23_23_25_seorl_s_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Algorithmen-Entwickler-Bildverarbeitung-m-w-d-Mannheim-Kite-IT-GmbH--14097568-inline.html?rltr=24_24_25_seorl_s_0_0_0_0_1_0": {
+      "title": "Algorithmen-Entwickler – Bildverarbeitung (m/w/d)",
+      "company": "Kite IT GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Algorithmen-Entwickler-Bildverarbeitung-m-w-d-Mannheim-Kite-IT-GmbH--14097568-inline.html?rltr=24_24_25_seorl_s_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Senior-ML-Engineer-Next-Generation-Autonomous-Driving-f-m-x-Munchen-BMW-Group--14082390-inline.html?rltr=25_25_25_seorl_s_0_0_0_0_0_0": {
+      "title": "Senior ML Engineer - Next-Generation Autonomous Driving (f/m/x)",
+      "company": "BMW Group",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Senior-ML-Engineer-Next-Generation-Autonomous-Driving-f-m-x-Munchen-BMW-Group--14082390-inline.html?rltr=25_25_25_seorl_s_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Mobile-Maintenance-Product-Manager-Human-Hamburg-VTG-GmbH--14159265-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Mobile Maintenance Product Manager (Human)",
+      "company": "VTG GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mobile-Maintenance-Product-Manager-Human-Hamburg-VTG-GmbH--14159265-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Intern-Robotics-Sindelfingen-Mercedes-Benz-AG--14148572-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Intern Robotics",
+      "company": "Mercedes-Benz AG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Intern-Robotics-Sindelfingen-Mercedes-Benz-AG--14148572-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Content-Outreach-Associate-Premiere-Mobile-Regional-Templates-Berlin-Berlin-Germany-Adobe-Systems-Europe-Limited--14148731-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Content Outreach Associate, Premiere Mobile Regional Templates ​",
+      "company": "Adobe Systems Europe Limited",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Content-Outreach-Associate-Premiere-Mobile-Regional-Templates-Berlin-Berlin-Germany-Adobe-Systems-Europe-Limited--14148731-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Robotics-Mechatronics-Engineer-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067728-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Robotics / Mechatronics Engineer (m/f/d)",
+      "company": "CTC gGmbH – Center for the Transformation of Chemistry",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Robotics-Mechatronics-Engineer-m-f-d-Leipzig-CTC-gGmbH-Center-for-the-Transformation-of-Chemistry--14067728-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mobile-App-Product-Owner-m-f-d-Munchen-limango-GmbH--14015598-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mobile App Product Owner (m/f/d)",
+      "company": "limango GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mobile-App-Product-Owner-m-f-d-Munchen-limango-GmbH--14015598-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Reifenmonteur-im-mobilen-Lkw-Service-m-w-d-3-000EUR-Wechselpramie-Frankfurt-Vergolst-GmbH--8987996-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Reifenmonteur im mobilen Lkw-Service (m/w/d) 3.000€ Wechselprämie",
+      "company": "Vergölst GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Reifenmonteur-im-mobilen-Lkw-Service-m-w-d-3-000EUR-Wechselpramie-Frankfurt-Vergolst-GmbH--8987996-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Maschinen-und-Anlagenfuhrer-Roboterschweisstechnik-m-w-d-fur-unsere-modernen-Schweissroboteranlage-mit-ABB-Robotertechnik-und-Fronius-Schweissequipment-Coesfeld-bei-Munster-Krampe-Fahrzeugbau-GmbH--13108249-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Maschinen- und Anlagenführer Roboterschweißtechnik (m/w/d) für unsere modernen Schweißroboteranlage mit ABB Robotertechnik und Fronius Schweißequipment",
+      "company": "Krampe Fahrzeugbau GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Maschinen-und-Anlagenfuhrer-Roboterschweisstechnik-m-w-d-fur-unsere-modernen-Schweissroboteranlage-mit-ABB-Robotertechnik-und-Fronius-Schweissequipment-Coesfeld-bei-Munster-Krampe-Fahrzeugbau-GmbH--13108249-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Elektriker-Elektroniker-w-m-d-Mobiler-Servicetechniker-fur-Wasserkraftanlagen-Rothlein-Apleona-GmbH--13367274-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Elektriker / Elektroniker (w/m/d) - Mobiler Servicetechniker für Wasserkraftanlagen",
+      "company": "Apleona GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Elektriker-Elektroniker-w-m-d-Mobiler-Servicetechniker-fur-Wasserkraftanlagen-Rothlein-Apleona-GmbH--13367274-inline.html?rltr=8_8_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mobiler-Servicetechniker-w-m-d-HLS-Rothlein-Apleona-GmbH--13649482-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mobiler Servicetechniker (w/m/d) HLS",
+      "company": "Apleona GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mobiler-Servicetechniker-w-m-d-HLS-Rothlein-Apleona-GmbH--13649482-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Reifenmonteur-im-mobilen-Lkw-Service-m-w-d-Leverkusen-Vergolst-GmbH--13846826-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Reifenmonteur im mobilen Lkw-Service (m/w/d)",
+      "company": "Vergölst GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Reifenmonteur-im-mobilen-Lkw-Service-m-w-d-Leverkusen-Vergolst-GmbH--13846826-inline.html?rltr=10_10_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Reifenmonteur-im-mobilen-Lkw-Service-m-w-d-3-000EUR-Wechselpramie-Paderborn-Vergolst-GmbH--13846827-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Reifenmonteur im mobilen Lkw-Service (m/w/d) 3.000€ Wechselprämie",
+      "company": "Vergölst GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Reifenmonteur-im-mobilen-Lkw-Service-m-w-d-3-000EUR-Wechselpramie-Paderborn-Vergolst-GmbH--13846827-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Operations-Manager-Betriebsleiter-Autonomes-Fahren-m-w-d-Munchen-Transdev-Autonome-Services-Deutschland-GmbH--14153890-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Operations Manager / Betriebsleiter Autonomes Fahren (m/w/d)",
+      "company": "Transdev Autonome Services Deutschland GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Operations-Manager-Betriebsleiter-Autonomes-Fahren-m-w-d-Munchen-Transdev-Autonome-Services-Deutschland-GmbH--14153890-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mobile-Android-Tech-Leadership-all-genders-bei-Personal-Investors-Nurnberg-Munchen-BNP-Paribas-S-A--14164655-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mobile Android - Tech Leadership (all genders) bei Personal Investors",
+      "company": "BNP Paribas S.A.",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mobile-Android-Tech-Leadership-all-genders-bei-Personal-Investors-Nurnberg-Munchen-BNP-Paribas-S-A--14164655-inline.html?rltr=13_13_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Bediener-Schweissroboter-m-w-d-Unterluss-bei-Celle-Rheinmetall-Landsysteme-GmbH--14079997-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Bediener Schweißroboter (m/w/d)",
+      "company": "Rheinmetall Landsysteme GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Bediener-Schweissroboter-m-w-d-Unterluss-bei-Celle-Rheinmetall-Landsysteme-GmbH--14079997-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Servicetechniker-in-m-w-d-fur-Melkroboter-Fokusgebiet-Oyten-Bremen-Luneburg-Buxtehude-Rotenburg-Schneverdingen-Lely-Center-Niedersachsen-GmbH--14068641-inline.html?rltr=15_15_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Servicetechniker/in (m/w/d) für Melkroboter - Fokusgebiet Oyten",
+      "company": "Lely Center Niedersachsen GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Servicetechniker-in-m-w-d-fur-Melkroboter-Fokusgebiet-Oyten-Bremen-Luneburg-Buxtehude-Rotenburg-Schneverdingen-Lely-Center-Niedersachsen-GmbH--14068641-inline.html?rltr=15_15_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Schweissroboterprogrammierer-m-w-d-Haren-Ems-meinestadt-de--13841121-inline.html?rltr=16_16_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Schweißroboterprogrammierer (m/w/d)",
+      "company": "meinestadt.de",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Schweissroboterprogrammierer-m-w-d-Haren-Ems-meinestadt-de--13841121-inline.html?rltr=16_16_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Werkstudent-Projektmanagement-Autonome-Mobilitat-w-m-d-Hamburg-Hamburger-Hochbahn-AG--14081524-inline.html?rltr=17_17_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Werkstudent Projektmanagement Autonome Mobilität (w/m/d)",
+      "company": "Hamburger Hochbahn AG",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Werkstudent-Projektmanagement-Autonome-Mobilitat-w-m-d-Hamburg-Hamburger-Hochbahn-AG--14081524-inline.html?rltr=17_17_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Servicetechniker-Robotik-m-w-d-auch-Quereinstieg-mit-technischem-Hintergrund-moglich-Hannover-EF-Sales-GmbH--14166439-inline.html?rltr=18_18_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Servicetechniker Robotik (m/w/d) - auch Quereinstieg mit technischem Hintergrund möglich!",
+      "company": "EF Sales GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Servicetechniker-Robotik-m-w-d-auch-Quereinstieg-mit-technischem-Hintergrund-moglich-Hannover-EF-Sales-GmbH--14166439-inline.html?rltr=18_18_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Sales-Manager-w-m-d-Managed-Services-Mobile-B2B-Enterprise-Heidelberg-MPC-Mobilservice-GmbH--13962504-inline.html?rltr=19_19_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Sales Manager (w/m/d) – Managed Services Mobile | B2B Enterprise",
+      "company": "MPC Mobilservice GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Sales-Manager-w-m-d-Managed-Services-Mobile-B2B-Enterprise-Heidelberg-MPC-Mobilservice-GmbH--13962504-inline.html?rltr=19_19_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Schweissroboter-Programmierer-Bediener-m-w-d-Dissen-bei-Osnabruck-Strautmann-Systemtechnik--13910813-inline.html?rltr=20_20_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Schweißroboter Programmierer/ Bediener (m/w/d)",
+      "company": "Strautmann Systemtechnik",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Schweissroboter-Programmierer-Bediener-m-w-d-Dissen-bei-Osnabruck-Strautmann-Systemtechnik--13910813-inline.html?rltr=20_20_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Pflegefachkraft-Hospa-mobil-m-w-d-Neuruppin-Pro-Klinik-Holding-GmbH--14167441-inline.html?rltr=21_21_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Pflegefachkraft Hospa mobil (m/w/d)",
+      "company": "Pro Klinik Holding GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Pflegefachkraft-Hospa-mobil-m-w-d-Neuruppin-Pro-Klinik-Holding-GmbH--14167441-inline.html?rltr=21_21_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Wissenschaftliche-r-Mitarbeiter-in-m-w-d-Autonome-Schifffahrtssysteme-Regelungstechnik-Elsfleth-Jade-Hochschule-Wilhelmshaven-Oldenburg-Elsfleth--14142021-inline.html?rltr=22_22_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Wissenschaftliche_r Mitarbeiter_in (m/w/d) Autonome Schifffahrtssysteme & Regelungstechnik",
+      "company": "Jade Hochschule Wilhelmshaven/Oldenburg/Elsfleth",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Wissenschaftliche-r-Mitarbeiter-in-m-w-d-Autonome-Schifffahrtssysteme-Regelungstechnik-Elsfleth-Jade-Hochschule-Wilhelmshaven-Oldenburg-Elsfleth--14142021-inline.html?rltr=22_22_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Elektroniker-Mechatroniker-Automatisierungstechnik-m-w-d-Robotik-Instandhaltung-Aschau-am-Inn-Nitrochemie-Aschau-GmbH--14032620-inline.html?rltr=23_23_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Elektroniker/Mechatroniker Automatisierungstechnik (m/w/d) - Robotik Instandhaltung",
+      "company": "Nitrochemie Aschau GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Elektroniker-Mechatroniker-Automatisierungstechnik-m-w-d-Robotik-Instandhaltung-Aschau-am-Inn-Nitrochemie-Aschau-GmbH--14032620-inline.html?rltr=23_23_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Ingenieur-m-w-d-fur-Roboterprogrammierung-Inbetriebnahme-Crailsheim-Gerhard-Schubert-GmbH--14024297-inline.html?rltr=24_24_25_seorl_m_0_0_0_0_1_0": {
+      "title": "Ingenieur (m/w/d) für Roboterprogrammierung & Inbetriebnahme",
+      "company": "Gerhard Schubert GmbH",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Ingenieur-m-w-d-fur-Roboterprogrammierung-Inbetriebnahme-Crailsheim-Gerhard-Schubert-GmbH--14024297-inline.html?rltr=24_24_25_seorl_m_0_0_0_0_1_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.stepstone.de/jobs--Mobile-Software-Architect-Engineer-m-w-d-Platform-iOS-Hamburg-Berlin-Computer-Futures--13458347-inline.html?rltr=25_25_25_seorl_m_0_0_0_0_0_0": {
+      "title": "Mobile Software Architect / Engineer (m/w/d) (Platform & iOS)",
+      "company": "Computer Futures",
+      "source": "stepstone",
+      "url": "https://www.stepstone.de/jobs--Mobile-Software-Architect-Engineer-m-w-d-Platform-iOS-Hamburg-Berlin-Computer-Futures--13458347-inline.html?rltr=25_25_25_seorl_m_0_0_0_0_0_0",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=ccccdd01a267944d": {
+      "title": "Professur (m/w/d) der BesGr. W 2 für das Lehrgebiet Mechatronik (Kennziffer 9088)",
+      "company": "Ostbayerische Technische Hochschule Amberg-Weiden",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=ccccdd01a267944d",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=ea7313faed0999a4": {
+      "title": "Audio AI Engineer (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=ea7313faed0999a4",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=8b0542d426d15dc9": {
+      "title": "Technical Lead - AI Manipulation and Simulation (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=8b0542d426d15dc9",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=f547e54b1f358b39": {
+      "title": "Technical Lead - AI Manipulation and Simulation (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=f547e54b1f358b39",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=ba7e11c5155a763d": {
+      "title": "Teleoperation Software Engineer - NEURAGym (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=ba7e11c5155a763d",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=fa072fbae5213a8d": {
+      "title": "Fleet Orchestration Engineer - Neuraverse (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=fa072fbae5213a8d",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=f96c2096c73f441b": {
+      "title": "Firmware Engineer — Dexterous Hand Systems (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=f96c2096c73f441b",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=29909b53dd26fd0a": {
+      "title": "Robotics Middleware Engineer (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=29909b53dd26fd0a",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=10bc9a00529111d9": {
+      "title": "Robot Platform Engineer (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=10bc9a00529111d9",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=c044112c34ad4271": {
+      "title": "Robotics Middleware Engineer (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=c044112c34ad4271",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=999cf98a962c44fa": {
+      "title": "Robot Client SDK Engineer (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=999cf98a962c44fa",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=7fd3c9ad99a2296b": {
+      "title": "Robot Platform Engineer (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=7fd3c9ad99a2296b",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=57dbc0bac9aaa85f": {
+      "title": "Fleet Orchestration Engineer - Neuraverse (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=57dbc0bac9aaa85f",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=a9ba8aca2b4dc591": {
+      "title": "Robot Client SDK Engineer (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=a9ba8aca2b4dc591",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=c04fcd88a508a109": {
+      "title": "Teleoperation Software Engineer - NEURAGym (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=c04fcd88a508a109",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=ea600d1dca281d6a": {
+      "title": "Wissenschaftliche/-r Mitarbeiter/-in (m/w/d)",
+      "company": "Hochschule für angewandte Wissenschaften München",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=ea600d1dca281d6a",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=5a6047ab36a7270b": {
+      "title": "Data/Robot Operator (Teleops) (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=5a6047ab36a7270b",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=5dee2e151b18fc64": {
+      "title": "Data/Robot Operator (Teleops) (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=5dee2e151b18fc64",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=1405ed3b7845ef9c": {
+      "title": "Robotics Architect",
+      "company": "SoftServe",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=1405ed3b7845ef9c",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=803669e39240c792": {
+      "title": "Robotics Architect",
+      "company": "SoftServe",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=803669e39240c792",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=40464aea22f93dd5": {
+      "title": "Lead Mobile Robotics Engineer",
+      "company": "SoftServe",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=40464aea22f93dd5",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=263e55a448741411": {
+      "title": "Robotics Architect",
+      "company": "SoftServe",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=263e55a448741411",
+      "first_seen": "2026-06-18",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=a0feabfb100a0bfd": {
+      "title": "Internship - Automated Testing & Surgical Navigation Software (f/m/d)",
+      "company": "B. Braun SE",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=a0feabfb100a0bfd",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=1a70d6c54b562e57": {
+      "title": "Senior UAV Prototyping Engineer (all genders)",
+      "company": "SKD SE",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=1a70d6c54b562e57",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=9ef0b9cd74b1713d": {
+      "title": "Engineering Technician – Cell Manufacturing (Process / Equipment) (m/f/d) Gigafactory Berlin-Brandenburg",
+      "company": "Tesla",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=9ef0b9cd74b1713d",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=02082205a9536c8c": {
+      "title": "(Junior/Mid-Level) Embedded Software Engineer",
+      "company": "Vay",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=02082205a9536c8c",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=01d98523dd5f0129": {
+      "title": "(Junior/Mid-Level) Embedded Software Engineer",
+      "company": "Vay",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=01d98523dd5f0129",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=4b1dd65ea77b7bb2": {
+      "title": "Product Application Engineer (m/f/d) - GaN",
+      "company": "Nexperia Germany GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=4b1dd65ea77b7bb2",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=a71eb48e5467183e": {
+      "title": "Senior Navigation and Localization Engineer for Mobile Robotics (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=a71eb48e5467183e",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=28bc93ab5d9ce5b1": {
+      "title": "AI Manipulation Engineer (Mensch)",
+      "company": "Neura Robotics GmbH",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=28bc93ab5d9ce5b1",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=b56235bd5ff780da": {
+      "title": "Associate Equipment Engineer Battery Pack (m/w/d) - Gigafactory Berlin-Brandenburg",
+      "company": "Tesla",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=b56235bd5ff780da",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=d9ab8b2347c05473": {
+      "title": "Audio AI Engineer (human)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=d9ab8b2347c05473",
+      "first_seen": "2026-06-18",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=8d1f43b1e5d30b50": {
+      "title": "Senior Navigation and Localization Engineer for Mobile Robotics (human)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=8d1f43b1e5d30b50",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=dd23f42896d89369": {
+      "title": "Senior Navigation and Localization Engineer for Mobile Robotics (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=dd23f42896d89369",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=8bb7be7c339af80f": {
+      "title": "AI Manipulation Engineer (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=8bb7be7c339af80f",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=d45f4bfb3f9005aa": {
+      "title": "Technical Lead - AI Manipulation and Simulation (human)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=d45f4bfb3f9005aa",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=0e2b29d552d05337": {
+      "title": "Audio AI Engineer (Mensch)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=0e2b29d552d05337",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=7eab4f429a5b8e35": {
+      "title": "AI Manipulation Engineer (human)",
+      "company": "Neura Robotics",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=7eab4f429a5b8e35",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://de.indeed.com/viewjob?jk=9b7de386f5ad6b6d": {
+      "title": "Embedded Linux Platform Engineer (UAV)",
+      "company": "Twentyfour Industries",
+      "source": "indeed",
+      "url": "https://de.indeed.com/viewjob?jk=9b7de386f5ad6b6d",
+      "first_seen": "2026-06-18",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://www.arbeitnow.com/jobs/companies/biteam-gesellschaft-fur-softwareberatung-mbh/project-manager-erp-karlsruhe-103665": {
+      "title": "Project Manager - ERP (w/m/d)",
+      "company": "B.i.Team Gesellschaft für Softwareberatung mbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/biteam-gesellschaft-fur-softwareberatung-mbh/project-manager-erp-karlsruhe-103665",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/senior-backend-developer-berlin-304934": {
+      "title": "Senior backend Developer",
+      "company": "Persohap GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/senior-backend-developer-berlin-304934",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/biomatch-gmbh/it-system-engineer-bad-sackingen-285634": {
+      "title": "IT System Engineer (m/w/d)",
+      "company": "Biomatch GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/biomatch-gmbh/it-system-engineer-bad-sackingen-285634",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/crossvertise-gmbh/financial-accountant-buchhalter-munich-130632": {
+      "title": "Financial Accountant / Buchhalter (m/w/d)",
+      "company": "crossvertise GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/crossvertise-gmbh/financial-accountant-buchhalter-munich-130632",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/zattoo/senior-engineering-manager-ads-backend-berlin-377937": {
+      "title": "Senior Engineering Manager Ads Backend",
+      "company": "Zattoo",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/zattoo/senior-engineering-manager-ads-backend-berlin-377937",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/kodra-gmbh-co-kg/werkstudent-medizintechnik-stuttgart-220114": {
+      "title": "Werkstudent Medizintechnik (m/w/d)",
+      "company": "KODRA GmbH & Co. KG",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/kodra-gmbh-co-kg/werkstudent-medizintechnik-stuttgart-220114",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-risk-analytics-berlin-301309": {
+      "title": "Senior Analytics Engineer - Risk Analytics",
+      "company": "SumUp",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-risk-analytics-berlin-301309",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.arbeitnow.com/jobs/companies/blickfeld-gmbh/hr-working-student-munchen-407494": {
+      "title": "HR Working Student (m/w/d)",
+      "company": "Blickfeld GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/blickfeld-gmbh/hr-working-student-munchen-407494",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/cyber-insight-gmbh/senior-enterprise-solution-architect-leipzig-132300": {
+      "title": "Senior Enterprise Solution Architect",
+      "company": "Cyber Insight GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyber-insight-gmbh/senior-enterprise-solution-architect-leipzig-132300",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.arbeitnow.com/jobs/companies/visual-statements-gmbh/senior-social-media-account-manager-all-genders-onsite-kein-remote-freiburg-im-breisgau-281288": {
+      "title": "Senior Social Media Account Manager (all genders) / Onsite - kein Remote",
+      "company": "Visual Statements GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/visual-statements-gmbh/senior-social-media-account-manager-all-genders-onsite-kein-remote-freiburg-im-breisgau-281288",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/teqwerk-gmbh/digital-workplace-manager-brannenburg-293524": {
+      "title": "Digital Workplace Manager (m/w/d)",
+      "company": "TEQWERK GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/teqwerk-gmbh/digital-workplace-manager-brannenburg-293524",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/itconfigall-gmbh/windows-server-administrator-messaging-engineer-wiesbaden-53082": {
+      "title": "Windows Server Administrator / Messaging Engineer (m/w/d) - 1429",
+      "company": "ITconfig/all GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/itconfigall-gmbh/windows-server-administrator-messaging-engineer-wiesbaden-53082",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-munich-109500": {
+      "title": "Bilanzbuchhalter (m/w/d)",
+      "company": "Jobbusters® GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-munich-109500",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-senior-accountant-augsburg-31226": {
+      "title": "Bilanzbuchhalter / Senior Accountant (m/w/d)",
+      "company": "Jobbusters® GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-senior-accountant-augsburg-31226",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/kordel-antriebstechnik-gmbh/senior-systemadministrator-dulmen-274896": {
+      "title": "Senior Systemadministrator (m/w/d)",
+      "company": "KORDEL Antriebstechnik GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/kordel-antriebstechnik-gmbh/senior-systemadministrator-dulmen-274896",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/vielfalter-gmbh-co-kg/junior-web-entwickler-junior-web-developer-bottrop-142510": {
+      "title": "Junior Web Entwickler / Junior Web Developer (m/w/d)",
+      "company": "Vielfalter GmbH & Co. KG",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/vielfalter-gmbh-co-kg/junior-web-entwickler-junior-web-developer-bottrop-142510",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/flix/senior-full-stack-engineer-python-berlin-423041": {
+      "title": "Senior Full Stack Engineer- Python (m/f/d)",
+      "company": "Flix",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-full-stack-engineer-python-berlin-423041",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/inpernell-gmbh/it-systemadministrator-trossingen-267924": {
+      "title": "IT-Systemadministrator (m/w/d)",
+      "company": "Inpernell GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/inpernell-gmbh/it-systemadministrator-trossingen-267924",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/junior-influencer-marketing-manager-berlin-260095": {
+      "title": "Junior Influencer Marketing Manager",
+      "company": "Pulse Advertising GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/junior-influencer-marketing-manager-berlin-260095",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/influencer-marketing-manager-berlin-117330": {
+      "title": "Influencer Marketing Manager",
+      "company": "Pulse Advertising GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/influencer-marketing-manager-berlin-117330",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/influencer-marketing-manager-hamburg-83344": {
+      "title": "Influencer Marketing Manager",
+      "company": "Pulse Advertising GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/influencer-marketing-manager-hamburg-83344",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/neuraum-ventures-gmbh/senior-performance-marketing-manager-paid-social-all-genders-berlin-392419": {
+      "title": "Senior Performance Marketing Manager, Paid Social (all genders)",
+      "company": "Neuraum Ventures GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/neuraum-ventures-gmbh/senior-performance-marketing-manager-paid-social-all-genders-berlin-392419",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/lecos-gmbh/systemadministrator-in-team-technischer-anwendungsbetrieb-leipzig-357529": {
+      "title": "Systemadministrator/in Team Technischer Anwendungsbetrieb (m/w/d)",
+      "company": "Lecos GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/lecos-gmbh/systemadministrator-in-team-technischer-anwendungsbetrieb-leipzig-357529",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/working-student-it-system-administrator-hamburg-330803": {
+      "title": "Working Student IT System Administrator (f/m/d)",
+      "company": "PlantaCorp GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/working-student-it-system-administrator-hamburg-330803",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/systemadministrator-it-infrastruktur-berlin-98494": {
+      "title": "Systemadministrator IT-Infrastruktur (m/w/d)",
+      "company": "Assecor GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/systemadministrator-it-infrastruktur-berlin-98494",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/padoa-gmbh/senior-implementation-project-manager-implementation-project-lead-berlin-187450": {
+      "title": "Senior Implementation Project Manager / Implementation Project Lead (m/w/d)",
+      "company": "PADOA GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/padoa-gmbh/senior-implementation-project-manager-implementation-project-lead-berlin-187450",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/proway-gmbh/systemingenieur-aktive-sensoren-taufkirchen-425431": {
+      "title": "Systemingenieur (m/w/d) Aktive Sensoren",
+      "company": "Proway GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/proway-gmbh/systemingenieur-aktive-sensoren-taufkirchen-425431",
+      "first_seen": "2026-06-18",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.arbeitnow.com/jobs/companies/liqomics/werkstudent-operations-sales-marketing-cologne-86981": {
+      "title": "Werkstudent (m/w/d) Operations, Sales & Marketing",
+      "company": "Liqomics",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/liqomics/werkstudent-operations-sales-marketing-cologne-86981",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/blickfeld-gmbh/working-student-idp-software-development-munich-326764": {
+      "title": "Working Student / IDP: Software Development (m/f/d)",
+      "company": "Blickfeld GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/blickfeld-gmbh/working-student-idp-software-development-munich-326764",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/rosengarth-partner-gbr/steuerfachangestellte-r-wurzburg-370488": {
+      "title": "Steuerfachangestellte/r (m/w/d)",
+      "company": "Rosengarth & Partner GbR",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rosengarth-partner-gbr/steuerfachangestellte-r-wurzburg-370488",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/senior-atlassian-consultant-munich-268183": {
+      "title": "Senior Atlassian Consultant (m/w/d)",
+      "company": "XALT Business Consulting GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/xalt-business-consulting-gmbh/senior-atlassian-consultant-munich-268183",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/amrest-authorisierter-lizenznehmer-von-starbucks-emea-ltd/hr-admin-specialist-payroll-all-genders-munich-457437": {
+      "title": "HR Admin Specialist (Payroll) (all genders)",
+      "company": "AmRest (authorisierter Lizenznehmer von Starbucks EMEA Ltd)",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/amrest-authorisierter-lizenznehmer-von-starbucks-emea-ltd/hr-admin-specialist-payroll-all-genders-munich-457437",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/mr-shop-gmbh/asisstenz-der-geschaftsleitung-mit-erfahrung-um-personalwesen-in-vollzeit-munster-188269": {
+      "title": "Asisstenz der Geschäftsleitung mit Erfahrung um Personalwesen (m/w/d) in Vollzeit",
+      "company": "MR-Shop GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/mr-shop-gmbh/asisstenz-der-geschaftsleitung-mit-erfahrung-um-personalwesen-in-vollzeit-munster-188269",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/orfix-international-gmbh/buchhalter-finanzbuchhalter-mit-organisatorischem-talent-radbruch-121531": {
+      "title": "Buchhalter / Finanzbuchhalter (m/w/d) mit organisatorischem Talent",
+      "company": "orfix International GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/orfix-international-gmbh/buchhalter-finanzbuchhalter-mit-organisatorischem-talent-radbruch-121531",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/lohndialog-abrechnungsgesellschaft-mbh/sales-manager-berlin-288187": {
+      "title": "Sales Manager (w/m/d)",
+      "company": "LohnDialog Abrechnungsgesellschaft mbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/lohndialog-abrechnungsgesellschaft-mbh/sales-manager-berlin-288187",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/scholarshipowl/account-executive-full-cycle-berlin-305687": {
+      "title": "Account Executive (Full Cycle)",
+      "company": "ScholarshipOwl",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/account-executive-full-cycle-berlin-305687",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/sumup/senior-full-stack-engineer-sidekick-berlin-450258": {
+      "title": "Senior Full Stack Engineer - Sidekick",
+      "company": "SumUp",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-full-stack-engineer-sidekick-berlin-450258",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-analytics-engineer-merchant-berlin-187792": {
+      "title": "Senior Analytics Engineer, Merchant",
+      "company": "Wolt - English",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-analytics-engineer-merchant-berlin-187792",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/contegy/trainee-pr-content-social-media-munich-209436": {
+      "title": "Trainee (m/w/d) PR, Content & Social Media - B2B",
+      "company": "Contegy",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/contegy/trainee-pr-content-social-media-munich-209436",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.arbeitnow.com/jobs/companies/orderbird-gmbh/head-of-marketing-berlin-232525": {
+      "title": "Head of Marketing (d/w/m)",
+      "company": "orderbird GmbH",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/orderbird-gmbh/head-of-marketing-berlin-232525",
+      "first_seen": "2026-06-18",
+      "fit": "low",
+      "status": "skipped"
+    }
+  }
+}
