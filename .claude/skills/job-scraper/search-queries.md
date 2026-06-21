@@ -160,3 +160,23 @@ Indeed, LinkedIn, Xing, Glassdoor) across Priorities 1–3, including the Austri
 fan-out above. This is the same as invoking `/scrape broad`. Cost note: LinkedIn bills a
 minimum of ~150 results/run and Glassdoor ~$0.40/1k, so each scheduled run spends a few
 cents of Apify credit — expected and intentional for the wider coverage.
+
+### Watched company career boards (ATS) — fetch directly every scheduled run
+
+These target robotics/aerospace employers don't index well on the job boards, but expose a
+public ATS JSON/XML feed. On every scheduled run (and on `/scrape broad`), fetch each URL
+directly (WebFetch/curl), then apply the SAME relevance filter (robotics / ROS / C++ /
+controls / perception / embedded / mechatronics / avionics / Werkstudent / Praktikum /
+Masterarbeit), the SAME 14-day date filter, and the SAME dedup against seen_jobs.json +
+job_search_tracker.csv as the boards. Each posting's apply URL is in the feed.
+
+| Company | Domain | ATS feed |
+|---------|--------|----------|
+| Isar Aerospace | aerospace · avionics/controls/embedded | https://boards-api.greenhouse.io/v1/boards/isaraerospace/jobs?content=true |
+| Brainlab | surgical robotics / navigation · C++ | https://api.smartrecruiters.com/v1/companies/brainlab/postings?limit=100 |
+| MOIA | autonomous driving (VW) | https://boards-api.greenhouse.io/v1/boards/moia/jobs?content=true |
+| Wandelbots | industrial robotics (Dresden) | https://wandelbots.jobs.personio.de/xml |
+
+Add new ATS feeds here as they're discovered. Companies whose ATS has no public feed
+(Bosch, Siemens, BMW, Magna, Ottobock, Agile Robots) are covered by the keyword board
+searches above using `<company> + robotics/embedded/mechatronik` queries.
